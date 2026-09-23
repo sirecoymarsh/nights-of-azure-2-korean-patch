@@ -1,22 +1,23 @@
 {
-  "release": "v2026.09.23-rc3",
+  "release": "v2026.09.24-rc4",
   "translator_model": "Codex internal",
-  "semantic_source": "Japanese",
-  "language_slot": "CHT",
   "payload_files": 1257,
-  "launcher_sha256": "7641adc06abbb373720ef0ba8f042310ffacabd271bc8693ccc52e0d77370fe4",
-  "archive_sha256": "ceb143c541fbb88e9a202ab74f8bff51fb984aae79684b073b98c2bb15b1a779",
-  "archive_bytes": 275701041,
-  "static_audit": "PASS",
-  "support_menu_tests": 11,
-  "game_discovery_tests": 15,
-  "close_tests": 13,
-  "extracted_install_and_byte_exact_restore": "PASS",
+  "original_hash_allowlist_required": false,
+  "automatic_verified_backup": true,
+  "restore": "exact pre-install files; newly added files removed",
+  "backup_retained_on_repeat_install": true,
+  "prior_backups_retained_on_updated_reinstall": true,
+  "strict_tests": 32,
+  "overwrite_tests": 29,
+  "support_tests": 11,
+  "extracted_zip_install_and_restore": "PASS",
   "defender": {
     "status": "PASS",
     "targets": 7,
     "new_relevant_detections": 0
   },
-  "actual_gui_and_gameplay_review": "pending user review",
-  "prerelease": true
+  "launcher_sha256": "485c67381aead1a8dda58d84b027644a5e0448d8bddb49fb19965bb6694bfe61",
+  "zip_sha256": "0fb6b035b5076702b7e36c395395c059bdfab48b9c44f66c7e420f414ed6a5cd",
+  "actual_gui_and_gameplay": "not verified",
+  "latest_pristine_steam_compatibility": "not verified"
 }
