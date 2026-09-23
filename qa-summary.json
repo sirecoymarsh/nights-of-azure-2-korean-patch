@@ -1,15 +1,22 @@
-﻿{
-    "release":  "v1.0.1",
-    "game":  "Nights of Azure 2",
-    "target_slot":  "CHT",
-    "status":  "reviewed_candidate",
-    "q_fix":  "ASCII question-mark rendering issue fixed with fullwidth U+FF1F where intended",
-    "translation_map_rows":  14340,
-    "ascii_question_marks_in_translated_display_strings":  0,
-    "intentional_unrevealed_speaker":  "CHARA_NAME_MISTER_X -\u003e ？？？",
-    "translation_map_sha256":  "02AE1A02748E44C3019BDC91283C7D83F0F2C76CD17ABD0300DB6F87A9037154",
-    "pre_final_audit_sha256":  "1674D841E2FC61804F0269FFB3EB209BAAD4BCF45AB645DB50C92C1DD23071F7",
-    "runtime_qa_sha256":  "BB8B8D5E1FCCB1C886FE4D4EC8F1CD2551B1B296F558690014E64FC3D597FB14",
-    "package_sha256":  "19A1AD63D34816473831A2736C4207EF388A594D4CAB3291A037712296031634",
-    "manifest_sha256":  "D1BCC44A0A1B8E100C0A23F3E9D800EBAC758CA1D51B410613A4EBC1D41EA754"
+{
+  "release": "v2026.09.23-rc3",
+  "translator_model": "Codex internal",
+  "semantic_source": "Japanese",
+  "language_slot": "CHT",
+  "payload_files": 1257,
+  "launcher_sha256": "7641adc06abbb373720ef0ba8f042310ffacabd271bc8693ccc52e0d77370fe4",
+  "archive_sha256": "ceb143c541fbb88e9a202ab74f8bff51fb984aae79684b073b98c2bb15b1a779",
+  "archive_bytes": 275701041,
+  "static_audit": "PASS",
+  "support_menu_tests": 11,
+  "game_discovery_tests": 15,
+  "close_tests": 13,
+  "extracted_install_and_byte_exact_restore": "PASS",
+  "defender": {
+    "status": "PASS",
+    "targets": 7,
+    "new_relevant_detections": 0
+  },
+  "actual_gui_and_gameplay_review": "pending user review",
+  "prerelease": true
 }
