@@ -1,7 +1,7 @@
 {
   "schema": "noa2-integrated-patch-v1",
   "title": "밤이 없는 나라 2 ~신월의 신부~",
-  "version": "2026.09.23-rc1",
+  "version": "2026.09.24-rc5",
   "translator_model": "Codex internal",
   "semantic_source": "Japanese",
   "language_slot": "CHT",
@@ -1692,12 +1692,13 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_010.ebm",
-      "hash": "e48bc2d5bfafe1677c043ef1731ec7963ee43c58d7db3f20e47bc6f41c39146f",
-      "size": 1780,
+      "hash": "b1f368d497759258e84fa8ce2e5ed69ceefe5522dc24a34cce9f4aa746d7ca0a",
+      "size": 1573,
       "accepted": [
         "ad1a9cca0ad6bf02a9b1a93ca034ceec3d08b83366859792f06eda4e3d0c02a0",
         "e48bc2d5bfafe1677c043ef1731ec7963ee43c58d7db3f20e47bc6f41c39146f",
-        "93f0edee8c6393ab0f9aa97a30df6c1635e4b0187616e4f87a718a07e8df02d8"
+        "93f0edee8c6393ab0f9aa97a30df6c1635e4b0187616e4f87a718a07e8df02d8",
+        "b1f368d497759258e84fa8ce2e5ed69ceefe5522dc24a34cce9f4aa746d7ca0a"
       ]
     },
     {
@@ -1711,11 +1712,12 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_030.ebm",
-      "hash": "343f44e3d3432e1fdb0adda9da2a00484ef9ddf976dc25cc4d72584a7c81c16e",
-      "size": 1170,
+      "hash": "de5d806f88a7927a055ba0e5c23e74b4427464b3727440113a33aacf14781f16",
+      "size": 981,
       "accepted": [
         "0c28412677161d060e896dd7870910adc98dcc8983b24d6c5f95ce30e14e1504",
-        "343f44e3d3432e1fdb0adda9da2a00484ef9ddf976dc25cc4d72584a7c81c16e"
+        "343f44e3d3432e1fdb0adda9da2a00484ef9ddf976dc25cc4d72584a7c81c16e",
+        "de5d806f88a7927a055ba0e5c23e74b4427464b3727440113a33aacf14781f16"
       ]
     },
     {
@@ -1759,12 +1761,13 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_080.ebm",
-      "hash": "bb127e43d39495c998e8667794492da21d2b7c57d1bdcbd64d83c4d13e40ea3b",
-      "size": 1660,
+      "hash": "095b3bfa85b6172d3ac0bf8a27994a9faa3a8a94454ff6de522630a0b2619c36",
+      "size": 1438,
       "accepted": [
         "4951cac52011ff1dfc28c2e39f6fb70d06a869f7b511d3b03b9c254b7cb2b43b",
         "bb127e43d39495c998e8667794492da21d2b7c57d1bdcbd64d83c4d13e40ea3b",
-        "5ed6e805d09dbf1eccccd7449562637f7a9f6949460984e9d7e21e637ff21c65"
+        "5ed6e805d09dbf1eccccd7449562637f7a9f6949460984e9d7e21e637ff21c65",
+        "095b3bfa85b6172d3ac0bf8a27994a9faa3a8a94454ff6de522630a0b2619c36"
       ]
     },
     {
@@ -1789,31 +1792,34 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_120.ebm",
-      "hash": "4386d833c00d6099a171ab2d8b8ffe87203e2c8f1fce1c26618a6fd51bcacf17",
-      "size": 4000,
+      "hash": "5e5f6b9331e901a7d3b733a28787e1e4ee59f2ab71dc0db792b808ca2254b8a2",
+      "size": 3517,
       "accepted": [
         "e1f889df1c1bd2245f3b8e333f27acc712489efaa5df65c9b0de1f4442dce26e",
         "4386d833c00d6099a171ab2d8b8ffe87203e2c8f1fce1c26618a6fd51bcacf17",
-        "c20ff4fd8caa6d096d6c7c536f3b9f3a70044eac18071032e02e75c33d71e646"
+        "c20ff4fd8caa6d096d6c7c536f3b9f3a70044eac18071032e02e75c33d71e646",
+        "5e5f6b9331e901a7d3b733a28787e1e4ee59f2ab71dc0db792b808ca2254b8a2"
       ]
     },
     {
       "path": "MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_130.ebm",
-      "hash": "a52db34d2992cd8d8fc7670349c343dfc95dc042a43230c56593bacd6517ea99",
-      "size": 1537,
+      "hash": "a0dd425f01051592bfa0a6834298b3ca4300ba77ddf2498199821479bd75892b",
+      "size": 1288,
       "accepted": [
         "cbce5b234f5c91acea00fc1e54420dd87c953e713a2ce593f6e90e2de64587fe",
         "a52db34d2992cd8d8fc7670349c343dfc95dc042a43230c56593bacd6517ea99",
-        "4dad9da52fc40e9660a90311e374234ea8293e1f3607d5cf85f577e424ef15aa"
+        "4dad9da52fc40e9660a90311e374234ea8293e1f3607d5cf85f577e424ef15aa",
+        "a0dd425f01051592bfa0a6834298b3ca4300ba77ddf2498199821479bd75892b"
       ]
     },
     {
       "path": "MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_140.ebm",
-      "hash": "6d3d6b40e523f4be608254f0e84d3d9bab6155061802db845b3a7b257e8e9d76",
-      "size": 2223,
+      "hash": "94487e347b1396e8cff11103f56c74eb982a262d1a5a44e62c2c22f5de013325",
+      "size": 1992,
       "accepted": [
         "8b751794c12b3e9bf4e47ecad0f96775ae4f695dc2e9b8e8c154d4d80e864e46",
-        "6d3d6b40e523f4be608254f0e84d3d9bab6155061802db845b3a7b257e8e9d76"
+        "6d3d6b40e523f4be608254f0e84d3d9bab6155061802db845b3a7b257e8e9d76",
+        "94487e347b1396e8cff11103f56c74eb982a262d1a5a44e62c2c22f5de013325"
       ]
     },
     {
@@ -2088,11 +2094,12 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM01/EVENT_MESSAGE_MM01_230.ebm",
-      "hash": "f18c2ad44381e83907f45e3dfb7dffac919fbc0e854056ec77a325aa5bc318a7",
-      "size": 445,
+      "hash": "5db5c329f5f902a0b0d899528299b47c1f62a32e61f85ec1dd837891ef2fac65",
+      "size": 406,
       "accepted": [
         "3977424e0afa195cdbbe9189b76526ba420a20406abb9be2d6ac6677d7f85ac9",
-        "f18c2ad44381e83907f45e3dfb7dffac919fbc0e854056ec77a325aa5bc318a7"
+        "f18c2ad44381e83907f45e3dfb7dffac919fbc0e854056ec77a325aa5bc318a7",
+        "5db5c329f5f902a0b0d899528299b47c1f62a32e61f85ec1dd837891ef2fac65"
       ]
     },
     {
@@ -2157,12 +2164,13 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM01/EVENT_MESSAGE_MM01_300.ebm",
-      "hash": "f3194ab4e63252a49918707cc28d56907f54df99e09d74de9037a0584f25bcfa",
-      "size": 1010,
+      "hash": "267e4b79cf27fa36aa5a1e9b0cc0804f86a68ce67f422f8c829c8fa8ab973e7a",
+      "size": 866,
       "accepted": [
         "fb287fc6fbafb5bca0024c4fe67b9c21c6626808767e872ed0ac2a699de3ab46",
         "f3194ab4e63252a49918707cc28d56907f54df99e09d74de9037a0584f25bcfa",
-        "4fc5d42d720b45d1ad933a9812d3f7cf1477f7c825d08eaea73c45447e8a52f6"
+        "4fc5d42d720b45d1ad933a9812d3f7cf1477f7c825d08eaea73c45447e8a52f6",
+        "267e4b79cf27fa36aa5a1e9b0cc0804f86a68ce67f422f8c829c8fa8ab973e7a"
       ]
     },
     {
@@ -2246,11 +2254,12 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM01/EVENT_MESSAGE_MM01_390.ebm",
-      "hash": "7a60aaac9e03fd7313c58123b568a402df4fe3421d5f378ae0f75f6d2a53153b",
-      "size": 447,
+      "hash": "8a7eadafac3501d1fdcbc946836dcd84009839c0e594240ec85087a4b9c71573",
+      "size": 375,
       "accepted": [
         "b8843a935bb7b8ae1cef7c97a12323d18bd21bcefe04feb19d19f5767967e3f3",
-        "7a60aaac9e03fd7313c58123b568a402df4fe3421d5f378ae0f75f6d2a53153b"
+        "7a60aaac9e03fd7313c58123b568a402df4fe3421d5f378ae0f75f6d2a53153b",
+        "8a7eadafac3501d1fdcbc946836dcd84009839c0e594240ec85087a4b9c71573"
       ]
     },
     {
@@ -2464,20 +2473,22 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM02/EVENT_MESSAGE_MM02_120.ebm",
-      "hash": "420134f21b2cf8858ee08a8df77e19fc83b709c93e15ae17c187915f3f7254d5",
-      "size": 673,
+      "hash": "df3780c1a81c215f24e54260d224283fcd5f05b26e68db5e1a357ae950f564a0",
+      "size": 535,
       "accepted": [
         "31f27773ebef35b1c7b7de39ce3770cc59738fb77de44201b18b844f05ce590e",
-        "420134f21b2cf8858ee08a8df77e19fc83b709c93e15ae17c187915f3f7254d5"
+        "420134f21b2cf8858ee08a8df77e19fc83b709c93e15ae17c187915f3f7254d5",
+        "df3780c1a81c215f24e54260d224283fcd5f05b26e68db5e1a357ae950f564a0"
       ]
     },
     {
       "path": "MASTER/CHT/Event/event/MM02/EVENT_MESSAGE_MM02_130.ebm",
-      "hash": "5933e24a78fdc21c586a92c2687ac08c0f52c135b29d0b43587d3defc63787cf",
-      "size": 1061,
+      "hash": "70fe6b189c1d29487dd5ebd996e09ef19cabd5dc8b1a8efc616cdbf272686f01",
+      "size": 863,
       "accepted": [
         "90b0f1dcd90f855a5f6b8403ac66a5967cc0bb9d1071f7b75ee054c79fbeff54",
-        "5933e24a78fdc21c586a92c2687ac08c0f52c135b29d0b43587d3defc63787cf"
+        "5933e24a78fdc21c586a92c2687ac08c0f52c135b29d0b43587d3defc63787cf",
+        "70fe6b189c1d29487dd5ebd996e09ef19cabd5dc8b1a8efc616cdbf272686f01"
       ]
     },
     {
@@ -2594,12 +2605,13 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM03/EVENT_MESSAGE_MM03_010.ebm",
-      "hash": "0aa6e9dde7b02c3d44e4450e96a05c6f977e678e13ee130e76e6788f0389f64c",
-      "size": 414,
+      "hash": "b31e8b24fb17ac33767290e86726165b973710d873d2d2f41f280568af8516d8",
+      "size": 309,
       "accepted": [
         "8bd5e106fdfa08d768250b860a4f82e8f0b596d6d0d0b2afaa6cd004a9759a1b",
         "0aa6e9dde7b02c3d44e4450e96a05c6f977e678e13ee130e76e6788f0389f64c",
-        "a141025a168091c0f42fc5857b0e9a17f1a61b4b4ee24bceeea58b5855f1731b"
+        "a141025a168091c0f42fc5857b0e9a17f1a61b4b4ee24bceeea58b5855f1731b",
+        "b31e8b24fb17ac33767290e86726165b973710d873d2d2f41f280568af8516d8"
       ]
     },
     {
@@ -2758,12 +2770,13 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM03/EVENT_MESSAGE_MM03_180.ebm",
-      "hash": "167713a5ef820bdd746d66bce5478608239ce3aeafc32ed896a8760e911f3e1a",
-      "size": 1538,
+      "hash": "1304c62778edcdab3570e0a6b616a53abbbb854b69736de6aa18b29085625291",
+      "size": 1361,
       "accepted": [
         "a15d54a4a8ebde2907c8aa537ecfac3a76b96b172aa00541d3507c23ba925f10",
         "167713a5ef820bdd746d66bce5478608239ce3aeafc32ed896a8760e911f3e1a",
-        "d83c3edb9e7ce338393b8c89a2ec967c76f607e8364f56d611191fca5f470efe"
+        "d83c3edb9e7ce338393b8c89a2ec967c76f607e8364f56d611191fca5f470efe",
+        "1304c62778edcdab3570e0a6b616a53abbbb854b69736de6aa18b29085625291"
       ]
     },
     {
@@ -2817,11 +2830,12 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM03/EVENT_MESSAGE_MM03_240.ebm",
-      "hash": "a71491388e1ae6658fa95cae4e87e9548c9a996316ab8e9ab58d5423b41d38f6",
-      "size": 1673,
+      "hash": "edd980a712b08c37344f8b4c48f80905d86e9f333f8cf45868e52d19924e0394",
+      "size": 1469,
       "accepted": [
         "63f45349650d772139088ab4fe7c5280b5414498eca5907c61c752d3a564f9e5",
-        "a71491388e1ae6658fa95cae4e87e9548c9a996316ab8e9ab58d5423b41d38f6"
+        "a71491388e1ae6658fa95cae4e87e9548c9a996316ab8e9ab58d5423b41d38f6",
+        "edd980a712b08c37344f8b4c48f80905d86e9f333f8cf45868e52d19924e0394"
       ]
     },
     {
@@ -3033,11 +3047,12 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM04/EVENT_MESSAGE_MM04_030.ebm",
-      "hash": "0fb004598aa133a4f1dbb04e87559a16cff0ecd6d2cca5631167e4c0bbb208e3",
-      "size": 1052,
+      "hash": "a4fd3d6f433525dc1b47e98518d40e76dfa72bfa3327802ffa077e82601e1790",
+      "size": 917,
       "accepted": [
         "1718f24ac1ad6ef26ca47aa1a86c5369878cdbd8a4ed8617af31b11314167e91",
-        "0fb004598aa133a4f1dbb04e87559a16cff0ecd6d2cca5631167e4c0bbb208e3"
+        "0fb004598aa133a4f1dbb04e87559a16cff0ecd6d2cca5631167e4c0bbb208e3",
+        "a4fd3d6f433525dc1b47e98518d40e76dfa72bfa3327802ffa077e82601e1790"
       ]
     },
     {
@@ -3120,22 +3135,24 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM04/EVENT_MESSAGE_MM04_120.ebm",
-      "hash": "53e4dde7860e5c671ab74d34366f8c3be7e460170e93b89e660d42a275365794",
-      "size": 394,
+      "hash": "0cadf279ea925335a772efcbf982235436008f32e56f1b5250034011d61e15f4",
+      "size": 361,
       "accepted": [
         "29486c35b68ac0f616f3606e80add4abe6e5b15cba35d497ad0cb6b4f748e3e6",
         "53e4dde7860e5c671ab74d34366f8c3be7e460170e93b89e660d42a275365794",
-        "e1e8b6f3a2297f4bb571de06e83ae4dbd7368e1147ec2b6005e752ad9f06acee"
+        "e1e8b6f3a2297f4bb571de06e83ae4dbd7368e1147ec2b6005e752ad9f06acee",
+        "0cadf279ea925335a772efcbf982235436008f32e56f1b5250034011d61e15f4"
       ]
     },
     {
       "path": "MASTER/CHT/Event/event/MM04/EVENT_MESSAGE_MM04_130.ebm",
-      "hash": "d0a1a313c77c5b502f5ccc57a93d29b33c2d91b25e768f849178c10a10f61b96",
-      "size": 728,
+      "hash": "27dd226a36c5e830fbb4089eca1ccb217f67e42117059e8b8e68ddca0707b6cc",
+      "size": 599,
       "accepted": [
         "e9d3f7a53a5d1787ed7838b961f9880cfc922ae00aeaa433a27f8136d0e0f21d",
         "d0a1a313c77c5b502f5ccc57a93d29b33c2d91b25e768f849178c10a10f61b96",
-        "88fbc4bebdc83b617c6ff30311b246829ca9eaed19e07e87a33669f61e160718"
+        "88fbc4bebdc83b617c6ff30311b246829ca9eaed19e07e87a33669f61e160718",
+        "27dd226a36c5e830fbb4089eca1ccb217f67e42117059e8b8e68ddca0707b6cc"
       ]
     },
     {
@@ -3150,12 +3167,13 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM04/EVENT_MESSAGE_MM04_150.ebm",
-      "hash": "7aca7a913c2b60bf2350862a785f5b127ab7d6f18e87ed331c43a6d60111ee33",
-      "size": 1043,
+      "hash": "a46a80fed524ff064d07432cc5f7466f1cd76c5f1a2882ccbfacf06c823691b6",
+      "size": 908,
       "accepted": [
         "160a2b220c87a34ba6576ac3a115ea1f9644376e3849a0e3cd83ea4a7e29c977",
         "7aca7a913c2b60bf2350862a785f5b127ab7d6f18e87ed331c43a6d60111ee33",
-        "a9e652acab7d6fd26a1defd34a6cd6525cd7f38590adcd75c4a6a191fe2f34c8"
+        "a9e652acab7d6fd26a1defd34a6cd6525cd7f38590adcd75c4a6a191fe2f34c8",
+        "a46a80fed524ff064d07432cc5f7466f1cd76c5f1a2882ccbfacf06c823691b6"
       ]
     },
     {
@@ -3227,11 +3245,12 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM04/EVENT_MESSAGE_MM04_230.ebm",
-      "hash": "08ff36e85c2306a5070a291401d58628a82a3e84ebca8f08c9b4156762094c1f",
-      "size": 415,
+      "hash": "597f950e90a434270d64caa42f0d18f9081bacfbae68929b1aae424c6f6dd9d7",
+      "size": 325,
       "accepted": [
         "f84e77af54743fb58cbbc1de6c678dadc562376522f8ead746faef4838e9a077",
-        "08ff36e85c2306a5070a291401d58628a82a3e84ebca8f08c9b4156762094c1f"
+        "08ff36e85c2306a5070a291401d58628a82a3e84ebca8f08c9b4156762094c1f",
+        "597f950e90a434270d64caa42f0d18f9081bacfbae68929b1aae424c6f6dd9d7"
       ]
     },
     {
@@ -3496,20 +3515,22 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM05/EVENT_MESSAGE_MM05_170.ebm",
-      "hash": "19da16cf25bb6b6981d90b3025a9a33a4c655c65375974d1725fedc5ca57a922",
-      "size": 1613,
+      "hash": "b2f084686b90c74255ca3c2fc95c10565940c23d57034435861fccc5ea37e4eb",
+      "size": 1322,
       "accepted": [
         "6d52e5fd16c59b3a3481db5e362ebfc409126cd8241929aa880212afb2922ed7",
-        "19da16cf25bb6b6981d90b3025a9a33a4c655c65375974d1725fedc5ca57a922"
+        "19da16cf25bb6b6981d90b3025a9a33a4c655c65375974d1725fedc5ca57a922",
+        "b2f084686b90c74255ca3c2fc95c10565940c23d57034435861fccc5ea37e4eb"
       ]
     },
     {
       "path": "MASTER/CHT/Event/event/MM05/EVENT_MESSAGE_MM05_180.ebm",
-      "hash": "1aef27da799f526097efad16c0dae5cdcb7fc0ccec3de3a00b467df3d928cd5a",
-      "size": 346,
+      "hash": "5f872a2aac44f4839d6815e6a0c925478d59609aa7019bf82b17c97ef4d4ca85",
+      "size": 280,
       "accepted": [
         "4f3e0784383ec49cea0fc29b866a6f4d05e546dc8f3d1536a7f8b96559692a3b",
-        "1aef27da799f526097efad16c0dae5cdcb7fc0ccec3de3a00b467df3d928cd5a"
+        "1aef27da799f526097efad16c0dae5cdcb7fc0ccec3de3a00b467df3d928cd5a",
+        "5f872a2aac44f4839d6815e6a0c925478d59609aa7019bf82b17c97ef4d4ca85"
       ]
     },
     {
@@ -3544,11 +3565,12 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM05/EVENT_MESSAGE_MM05_220.ebm",
-      "hash": "e0a1649d9200c9e071af63b60e445bb69d26021b6a0d95616cf2ff1e4823c74a",
-      "size": 1390,
+      "hash": "9815106c48afe90dd091daa2efcd0424c7cba0b339abc9b3cbcfa522e40d3c0b",
+      "size": 1177,
       "accepted": [
         "7cf17a37a556370b24eb92a4a8cf118b6843c2415730963805940180e1425d42",
-        "e0a1649d9200c9e071af63b60e445bb69d26021b6a0d95616cf2ff1e4823c74a"
+        "e0a1649d9200c9e071af63b60e445bb69d26021b6a0d95616cf2ff1e4823c74a",
+        "9815106c48afe90dd091daa2efcd0424c7cba0b339abc9b3cbcfa522e40d3c0b"
       ]
     },
     {
@@ -3739,12 +3761,13 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM06/EVENT_MESSAGE_MM06_110.ebm",
-      "hash": "7e3a24c3e5106aa51770aa3ed9e01c44804836531ca2edb8e01ee7db15cf78ca",
-      "size": 638,
+      "hash": "fda0a59472afa27af0a9abb0d59d8c93777a2dcbe56f52663460a7c6a3c1aaec",
+      "size": 539,
       "accepted": [
         "05f0f2d74b3a942bff64a65f6741e14bebb9b06d520d546e6bd523b06ce702d7",
         "7e3a24c3e5106aa51770aa3ed9e01c44804836531ca2edb8e01ee7db15cf78ca",
-        "a74aeef4c7c7c179c9dc8b0b2fc60193014e07e76932f936b67df4eec9832600"
+        "a74aeef4c7c7c179c9dc8b0b2fc60193014e07e76932f936b67df4eec9832600",
+        "fda0a59472afa27af0a9abb0d59d8c93777a2dcbe56f52663460a7c6a3c1aaec"
       ]
     },
     {
@@ -3779,11 +3802,12 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM06/EVENT_MESSAGE_MM06_150.ebm",
-      "hash": "b531c3e70caf4036b69761a63a7bdb5cfc65393c0789f55a8b70facd1ea111f1",
-      "size": 860,
+      "hash": "b0f051c9c8c82fab5584d0939c70d603e78f6ea6957d16d6bf6cf9fa3e432642",
+      "size": 734,
       "accepted": [
         "4420a06cc9ae7a6d6ff6cda6d09088fa0a5826ef9b8312cbf5480793577b40cb",
-        "b531c3e70caf4036b69761a63a7bdb5cfc65393c0789f55a8b70facd1ea111f1"
+        "b531c3e70caf4036b69761a63a7bdb5cfc65393c0789f55a8b70facd1ea111f1",
+        "b0f051c9c8c82fab5584d0939c70d603e78f6ea6957d16d6bf6cf9fa3e432642"
       ]
     },
     {
@@ -3798,20 +3822,22 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM06/EVENT_MESSAGE_MM06_170.ebm",
-      "hash": "b4904795b1e8bcef1230f340cd52e7109491359942b779cbb9b87bab408c8cb4",
-      "size": 432,
+      "hash": "d957076a792f8f1052987c7d674e87a84319568bc903b5f646d5befb14996e50",
+      "size": 375,
       "accepted": [
         "f38f79589d29a59b547344b48604f3a046932cbc4a26d0d7fedd45b5d3e6d5a1",
-        "b4904795b1e8bcef1230f340cd52e7109491359942b779cbb9b87bab408c8cb4"
+        "b4904795b1e8bcef1230f340cd52e7109491359942b779cbb9b87bab408c8cb4",
+        "d957076a792f8f1052987c7d674e87a84319568bc903b5f646d5befb14996e50"
       ]
     },
     {
       "path": "MASTER/CHT/Event/event/MM06/EVENT_MESSAGE_MM06_180.ebm",
-      "hash": "6f0f43664163ddffd9c7da60a13d4ae0a9c665756ef34791572050380794e34e",
-      "size": 991,
+      "hash": "4d1b33ec94f08b620368b3ae74272c0f09a5668591f001e7647753cb5a95f39f",
+      "size": 826,
       "accepted": [
         "1681bd9ca2f54b6faf711be8410ab0bfe6a96d9dae8c6087d3a18abe5b99d652",
-        "6f0f43664163ddffd9c7da60a13d4ae0a9c665756ef34791572050380794e34e"
+        "6f0f43664163ddffd9c7da60a13d4ae0a9c665756ef34791572050380794e34e",
+        "4d1b33ec94f08b620368b3ae74272c0f09a5668591f001e7647753cb5a95f39f"
       ]
     },
     {
@@ -3826,12 +3852,13 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM06/EVENT_MESSAGE_MM06_200.ebm",
-      "hash": "c0e0048b1afe259191a141c4446d7b740490d12fa2170d1f583233d667603f46",
-      "size": 1787,
+      "hash": "69ae8d2e000d2795ead5896a04700f6c8f6c614da2279833ec52bb06bb8d8cec",
+      "size": 1502,
       "accepted": [
         "8beb64418ce770d9165c52195a78273ec1740ec924525a7f505024dbc532c211",
         "c0e0048b1afe259191a141c4446d7b740490d12fa2170d1f583233d667603f46",
-        "3bcfafd4799c7ca6046fb635e29c1cb8db860b093cd76b2f4a1a6600ce8b2ff4"
+        "3bcfafd4799c7ca6046fb635e29c1cb8db860b093cd76b2f4a1a6600ce8b2ff4",
+        "69ae8d2e000d2795ead5896a04700f6c8f6c614da2279833ec52bb06bb8d8cec"
       ]
     },
     {
@@ -3939,11 +3966,12 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_020.ebm",
-      "hash": "7ef515051b06313a27f83bc85bda8b3e4da3f10ec79049b1d5ca6a6f2dca1f5c",
-      "size": 174,
+      "hash": "1f1512c42074c1c11855f0d7c5a52ec9c82f109725167ca6d5e22836edf7c0b5",
+      "size": 147,
       "accepted": [
         "e81729920009faf530d0bceb8cfca62ae164322622cf29137d350bc864ad38af",
-        "7ef515051b06313a27f83bc85bda8b3e4da3f10ec79049b1d5ca6a6f2dca1f5c"
+        "7ef515051b06313a27f83bc85bda8b3e4da3f10ec79049b1d5ca6a6f2dca1f5c",
+        "1f1512c42074c1c11855f0d7c5a52ec9c82f109725167ca6d5e22836edf7c0b5"
       ]
     },
     {
@@ -3977,11 +4005,12 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_060.ebm",
-      "hash": "d468f7a2ebfdc32ddfcb17db6cd3be85ccbdce5ffec366339df837af588300c1",
-      "size": 1085,
+      "hash": "bd0830d682a5f82c0c6d9206cc27d4105fe948feb9575767e66f3141ebfd2349",
+      "size": 953,
       "accepted": [
         "cf6e6fa4766ae8fb32b1b9160cf63aaaeea74adb7fb626abe93b2f21cd479764",
-        "d468f7a2ebfdc32ddfcb17db6cd3be85ccbdce5ffec366339df837af588300c1"
+        "d468f7a2ebfdc32ddfcb17db6cd3be85ccbdce5ffec366339df837af588300c1",
+        "bd0830d682a5f82c0c6d9206cc27d4105fe948feb9575767e66f3141ebfd2349"
       ]
     },
     {
@@ -4006,11 +4035,12 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_090.ebm",
-      "hash": "f5a61d0bbe108ef7290599ca364c5a898848ba50000ca90cf9e56f39791d3dc1",
-      "size": 1946,
+      "hash": "baa97357a4d42eafee695a8e35fac157b13aabd15e05b071524be18c85da2bb9",
+      "size": 1619,
       "accepted": [
         "a5731f1f74749a895d0ff137f080920f8eb2c9c2ac99f0f055c75600cc8779b8",
-        "f5a61d0bbe108ef7290599ca364c5a898848ba50000ca90cf9e56f39791d3dc1"
+        "f5a61d0bbe108ef7290599ca364c5a898848ba50000ca90cf9e56f39791d3dc1",
+        "baa97357a4d42eafee695a8e35fac157b13aabd15e05b071524be18c85da2bb9"
       ]
     },
     {
@@ -4025,11 +4055,12 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_110.ebm",
-      "hash": "f9f4fda416f2f6df42c8a4c1eb278da8fa66f340551dfced1119b4e72b5f4e80",
-      "size": 1003,
+      "hash": "d0ae86d4ba99b43569814795fd6db5b54b164235cfd795409c8928eb816cea77",
+      "size": 892,
       "accepted": [
         "30045b530a2b0c86bc78c69c8719d088268d92c022057582065db396bb31379a",
-        "f9f4fda416f2f6df42c8a4c1eb278da8fa66f340551dfced1119b4e72b5f4e80"
+        "f9f4fda416f2f6df42c8a4c1eb278da8fa66f340551dfced1119b4e72b5f4e80",
+        "d0ae86d4ba99b43569814795fd6db5b54b164235cfd795409c8928eb816cea77"
       ]
     },
     {
@@ -4082,49 +4113,54 @@
     },
     {
       "path": "MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_170.ebm",
-      "hash": "06ba22dd62c84dd7bf59250a6cd09baa5102a797dbc741f365b7b96b337fb53a",
-      "size": 1423,
+      "hash": "e96ffdc3c6ff9688848e597a6381ba364e3b3c981e33e54c5c936dd840c6a522",
+      "size": 1231,
       "accepted": [
         "569c8189c284b8b3e226a27e711be0bbbb5370e7f140a0ad8cfcb06eb4d82eb9",
-        "06ba22dd62c84dd7bf59250a6cd09baa5102a797dbc741f365b7b96b337fb53a"
+        "06ba22dd62c84dd7bf59250a6cd09baa5102a797dbc741f365b7b96b337fb53a",
+        "e96ffdc3c6ff9688848e597a6381ba364e3b3c981e33e54c5c936dd840c6a522"
       ]
     },
     {
       "path": "MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_180.ebm",
-      "hash": "fa27b9206095b13f6cd001f0407cc8c99c7254c409bbfcca039a5573f97f8fa8",
-      "size": 595,
+      "hash": "3d75a11bcacf61513d760fc4d3ab79423df478be3b0612f060bd84337932bb05",
+      "size": 454,
       "accepted": [
         "85dc7e0991675a02d49c14164c30ef13422bdd65d7b02a4577bbe6a07d01efc7",
-        "fa27b9206095b13f6cd001f0407cc8c99c7254c409bbfcca039a5573f97f8fa8"
+        "fa27b9206095b13f6cd001f0407cc8c99c7254c409bbfcca039a5573f97f8fa8",
+        "3d75a11bcacf61513d760fc4d3ab79423df478be3b0612f060bd84337932bb05"
       ]
     },
     {
       "path": "MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_190.ebm",
-      "hash": "09197402df38615cca2dd4a72767bcc6652c18348cbf1268cdc9c3bcf58f705a",
-      "size": 699,
+      "hash": "3b7bfcc58f68b156f24526beb4a63d2d199dc85a4d3e351fe8ed6658587a25b6",
+      "size": 603,
       "accepted": [
         "920b8a1aef4e551f6f381ec05c0d89d211f453195cde9852faad6adc3f38018a",
-        "09197402df38615cca2dd4a72767bcc6652c18348cbf1268cdc9c3bcf58f705a"
+        "09197402df38615cca2dd4a72767bcc6652c18348cbf1268cdc9c3bcf58f705a",
+        "3b7bfcc58f68b156f24526beb4a63d2d199dc85a4d3e351fe8ed6658587a25b6"
       ]
     },
     {
       "path": "MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_200.ebm",
-      "hash": "cb88de9b503a80cb347257dc45329e827f58b3b26b9b5b1c062b6580a5daacca",
-      "size": 2604,
+      "hash": "505984ae8cc04f61e6ef37ab14fe6f099098e09f8073af393657a4554040a3d9",
+      "size": 2145,
       "accepted": [
         "c192f5d11fca5b6c361eb4227d3458e11cf1e7bf59ecca7117ad3eaa78830952",
         "cb88de9b503a80cb347257dc45329e827f58b3b26b9b5b1c062b6580a5daacca",
-        "da9e7627d986932352390c6bc2120d00513d5cc526e1919750afd6d948cbf801"
+        "da9e7627d986932352390c6bc2120d00513d5cc526e1919750afd6d948cbf801",
+        "505984ae8cc04f61e6ef37ab14fe6f099098e09f8073af393657a4554040a3d9"
       ]
     },
     {
       "path": "MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_210.ebm",
-      "hash": "31fc5d4e6f7bd14cf66d6ac851e70b5f43907b021819495baeb486f8d9766035",
-      "size": 3345,
+      "hash": "6bf975c020418f88f4c719e37579dd659ac6ceaad5a15382b3a4a08e8a2281a9",
+      "size": 2907,
       "accepted": [
         "77c0a5bfdefe98d6f6f871e8144edb3df9b3dc0a3687ae33125527d07d9ec575",
         "31fc5d4e6f7bd14cf66d6ac851e70b5f43907b021819495baeb486f8d9766035",
-        "802a230244f004d78820f0dbd7d862638fce0a4726dd67b7bcad701f95a9fa2b"
+        "802a230244f004d78820f0dbd7d862638fce0a4726dd67b7bcad701f95a9fa2b",
+        "6bf975c020418f88f4c719e37579dd659ac6ceaad5a15382b3a4a08e8a2281a9"
       ]
     },
     {

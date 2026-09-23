@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.24-rc4-backup-overwrite",
+  "version": "2026.09.24-rc5",
   "translator_model": "Codex internal",
   "files": [
     {
@@ -9,8 +9,8 @@
     },
     {
       "path": "manifest.json",
-      "bytes": 499139,
-      "sha256": "dbddbc8f98f6aab699740a10adadba7349912d5755376b0bd512f36e1fd6d4d3"
+      "bytes": 501904,
+      "sha256": "afe959e60bf10ef958a64af58152728674a32ba0cdf98cdf6ee2cabe7c9f84c1"
     },
     {
       "path": "payload/MASTER/CHT/Event/balloonsel/BalloonSelectData.bsb",
@@ -879,8 +879,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_010.ebm",
-      "bytes": 1780,
-      "sha256": "e48bc2d5bfafe1677c043ef1731ec7963ee43c58d7db3f20e47bc6f41c39146f"
+      "bytes": 1573,
+      "sha256": "b1f368d497759258e84fa8ce2e5ed69ceefe5522dc24a34cce9f4aa746d7ca0a"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_020.ebm",
@@ -889,8 +889,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_030.ebm",
-      "bytes": 1170,
-      "sha256": "343f44e3d3432e1fdb0adda9da2a00484ef9ddf976dc25cc4d72584a7c81c16e"
+      "bytes": 981,
+      "sha256": "de5d806f88a7927a055ba0e5c23e74b4427464b3727440113a33aacf14781f16"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_040.ebm",
@@ -914,8 +914,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_080.ebm",
-      "bytes": 1660,
-      "sha256": "bb127e43d39495c998e8667794492da21d2b7c57d1bdcbd64d83c4d13e40ea3b"
+      "bytes": 1438,
+      "sha256": "095b3bfa85b6172d3ac0bf8a27994a9faa3a8a94454ff6de522630a0b2619c36"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_090.ebm",
@@ -929,18 +929,18 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_120.ebm",
-      "bytes": 4000,
-      "sha256": "4386d833c00d6099a171ab2d8b8ffe87203e2c8f1fce1c26618a6fd51bcacf17"
+      "bytes": 3517,
+      "sha256": "5e5f6b9331e901a7d3b733a28787e1e4ee59f2ab71dc0db792b808ca2254b8a2"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_130.ebm",
-      "bytes": 1537,
-      "sha256": "a52db34d2992cd8d8fc7670349c343dfc95dc042a43230c56593bacd6517ea99"
+      "bytes": 1288,
+      "sha256": "a0dd425f01051592bfa0a6834298b3ca4300ba77ddf2498199821479bd75892b"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_140.ebm",
-      "bytes": 2223,
-      "sha256": "6d3d6b40e523f4be608254f0e84d3d9bab6155061802db845b3a7b257e8e9d76"
+      "bytes": 1992,
+      "sha256": "94487e347b1396e8cff11103f56c74eb982a262d1a5a44e62c2c22f5de013325"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM00/EVENT_MESSAGE_MM00_150.ebm",
@@ -1084,8 +1084,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM01/EVENT_MESSAGE_MM01_230.ebm",
-      "bytes": 445,
-      "sha256": "f18c2ad44381e83907f45e3dfb7dffac919fbc0e854056ec77a325aa5bc318a7"
+      "bytes": 406,
+      "sha256": "5db5c329f5f902a0b0d899528299b47c1f62a32e61f85ec1dd837891ef2fac65"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM01/EVENT_MESSAGE_MM01_240.ebm",
@@ -1119,8 +1119,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM01/EVENT_MESSAGE_MM01_300.ebm",
-      "bytes": 1010,
-      "sha256": "f3194ab4e63252a49918707cc28d56907f54df99e09d74de9037a0584f25bcfa"
+      "bytes": 866,
+      "sha256": "267e4b79cf27fa36aa5a1e9b0cc0804f86a68ce67f422f8c829c8fa8ab973e7a"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM01/EVENT_MESSAGE_MM01_310.ebm",
@@ -1164,8 +1164,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM01/EVENT_MESSAGE_MM01_390.ebm",
-      "bytes": 447,
-      "sha256": "7a60aaac9e03fd7313c58123b568a402df4fe3421d5f378ae0f75f6d2a53153b"
+      "bytes": 375,
+      "sha256": "8a7eadafac3501d1fdcbc946836dcd84009839c0e594240ec85087a4b9c71573"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM01/EVENT_MESSAGE_MM01_400.ebm",
@@ -1279,13 +1279,13 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM02/EVENT_MESSAGE_MM02_120.ebm",
-      "bytes": 673,
-      "sha256": "420134f21b2cf8858ee08a8df77e19fc83b709c93e15ae17c187915f3f7254d5"
+      "bytes": 535,
+      "sha256": "df3780c1a81c215f24e54260d224283fcd5f05b26e68db5e1a357ae950f564a0"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM02/EVENT_MESSAGE_MM02_130.ebm",
-      "bytes": 1061,
-      "sha256": "5933e24a78fdc21c586a92c2687ac08c0f52c135b29d0b43587d3defc63787cf"
+      "bytes": 863,
+      "sha256": "70fe6b189c1d29487dd5ebd996e09ef19cabd5dc8b1a8efc616cdbf272686f01"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM02/EVENT_MESSAGE_MM02_140.ebm",
@@ -1349,8 +1349,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM03/EVENT_MESSAGE_MM03_010.ebm",
-      "bytes": 414,
-      "sha256": "0aa6e9dde7b02c3d44e4450e96a05c6f977e678e13ee130e76e6788f0389f64c"
+      "bytes": 309,
+      "sha256": "b31e8b24fb17ac33767290e86726165b973710d873d2d2f41f280568af8516d8"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM03/EVENT_MESSAGE_MM03_020.ebm",
@@ -1434,8 +1434,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM03/EVENT_MESSAGE_MM03_180.ebm",
-      "bytes": 1538,
-      "sha256": "167713a5ef820bdd746d66bce5478608239ce3aeafc32ed896a8760e911f3e1a"
+      "bytes": 1361,
+      "sha256": "1304c62778edcdab3570e0a6b616a53abbbb854b69736de6aa18b29085625291"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM03/EVENT_MESSAGE_MM03_190.ebm",
@@ -1464,8 +1464,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM03/EVENT_MESSAGE_MM03_240.ebm",
-      "bytes": 1673,
-      "sha256": "a71491388e1ae6658fa95cae4e87e9548c9a996316ab8e9ab58d5423b41d38f6"
+      "bytes": 1469,
+      "sha256": "edd980a712b08c37344f8b4c48f80905d86e9f333f8cf45868e52d19924e0394"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM03/EVENT_MESSAGE_MM03_250.ebm",
@@ -1579,8 +1579,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM04/EVENT_MESSAGE_MM04_030.ebm",
-      "bytes": 1052,
-      "sha256": "0fb004598aa133a4f1dbb04e87559a16cff0ecd6d2cca5631167e4c0bbb208e3"
+      "bytes": 917,
+      "sha256": "a4fd3d6f433525dc1b47e98518d40e76dfa72bfa3327802ffa077e82601e1790"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM04/EVENT_MESSAGE_MM04_040.ebm",
@@ -1624,13 +1624,13 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM04/EVENT_MESSAGE_MM04_120.ebm",
-      "bytes": 394,
-      "sha256": "53e4dde7860e5c671ab74d34366f8c3be7e460170e93b89e660d42a275365794"
+      "bytes": 361,
+      "sha256": "0cadf279ea925335a772efcbf982235436008f32e56f1b5250034011d61e15f4"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM04/EVENT_MESSAGE_MM04_130.ebm",
-      "bytes": 728,
-      "sha256": "d0a1a313c77c5b502f5ccc57a93d29b33c2d91b25e768f849178c10a10f61b96"
+      "bytes": 599,
+      "sha256": "27dd226a36c5e830fbb4089eca1ccb217f67e42117059e8b8e68ddca0707b6cc"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM04/EVENT_MESSAGE_MM04_140.ebm",
@@ -1639,8 +1639,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM04/EVENT_MESSAGE_MM04_150.ebm",
-      "bytes": 1043,
-      "sha256": "7aca7a913c2b60bf2350862a785f5b127ab7d6f18e87ed331c43a6d60111ee33"
+      "bytes": 908,
+      "sha256": "a46a80fed524ff064d07432cc5f7466f1cd76c5f1a2882ccbfacf06c823691b6"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM04/EVENT_MESSAGE_MM04_160.ebm",
@@ -1679,8 +1679,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM04/EVENT_MESSAGE_MM04_230.ebm",
-      "bytes": 415,
-      "sha256": "08ff36e85c2306a5070a291401d58628a82a3e84ebca8f08c9b4156762094c1f"
+      "bytes": 325,
+      "sha256": "597f950e90a434270d64caa42f0d18f9081bacfbae68929b1aae424c6f6dd9d7"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM04/EVENT_MESSAGE_MM04_240.ebm",
@@ -1819,13 +1819,13 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM05/EVENT_MESSAGE_MM05_170.ebm",
-      "bytes": 1613,
-      "sha256": "19da16cf25bb6b6981d90b3025a9a33a4c655c65375974d1725fedc5ca57a922"
+      "bytes": 1322,
+      "sha256": "b2f084686b90c74255ca3c2fc95c10565940c23d57034435861fccc5ea37e4eb"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM05/EVENT_MESSAGE_MM05_180.ebm",
-      "bytes": 346,
-      "sha256": "1aef27da799f526097efad16c0dae5cdcb7fc0ccec3de3a00b467df3d928cd5a"
+      "bytes": 280,
+      "sha256": "5f872a2aac44f4839d6815e6a0c925478d59609aa7019bf82b17c97ef4d4ca85"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM05/EVENT_MESSAGE_MM05_190.ebm",
@@ -1844,8 +1844,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM05/EVENT_MESSAGE_MM05_220.ebm",
-      "bytes": 1390,
-      "sha256": "e0a1649d9200c9e071af63b60e445bb69d26021b6a0d95616cf2ff1e4823c74a"
+      "bytes": 1177,
+      "sha256": "9815106c48afe90dd091daa2efcd0424c7cba0b339abc9b3cbcfa522e40d3c0b"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM05/EVENT_MESSAGE_MM05_230.ebm",
@@ -1949,8 +1949,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM06/EVENT_MESSAGE_MM06_110.ebm",
-      "bytes": 638,
-      "sha256": "7e3a24c3e5106aa51770aa3ed9e01c44804836531ca2edb8e01ee7db15cf78ca"
+      "bytes": 539,
+      "sha256": "fda0a59472afa27af0a9abb0d59d8c93777a2dcbe56f52663460a7c6a3c1aaec"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM06/EVENT_MESSAGE_MM06_120.ebm",
@@ -1969,8 +1969,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM06/EVENT_MESSAGE_MM06_150.ebm",
-      "bytes": 860,
-      "sha256": "b531c3e70caf4036b69761a63a7bdb5cfc65393c0789f55a8b70facd1ea111f1"
+      "bytes": 734,
+      "sha256": "b0f051c9c8c82fab5584d0939c70d603e78f6ea6957d16d6bf6cf9fa3e432642"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM06/EVENT_MESSAGE_MM06_160.ebm",
@@ -1979,13 +1979,13 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM06/EVENT_MESSAGE_MM06_170.ebm",
-      "bytes": 432,
-      "sha256": "b4904795b1e8bcef1230f340cd52e7109491359942b779cbb9b87bab408c8cb4"
+      "bytes": 375,
+      "sha256": "d957076a792f8f1052987c7d674e87a84319568bc903b5f646d5befb14996e50"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM06/EVENT_MESSAGE_MM06_180.ebm",
-      "bytes": 991,
-      "sha256": "6f0f43664163ddffd9c7da60a13d4ae0a9c665756ef34791572050380794e34e"
+      "bytes": 826,
+      "sha256": "4d1b33ec94f08b620368b3ae74272c0f09a5668591f001e7647753cb5a95f39f"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM06/EVENT_MESSAGE_MM06_190.ebm",
@@ -1994,8 +1994,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM06/EVENT_MESSAGE_MM06_200.ebm",
-      "bytes": 1787,
-      "sha256": "c0e0048b1afe259191a141c4446d7b740490d12fa2170d1f583233d667603f46"
+      "bytes": 1502,
+      "sha256": "69ae8d2e000d2795ead5896a04700f6c8f6c614da2279833ec52bb06bb8d8cec"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM06/EVENT_MESSAGE_MM06_210.ebm",
@@ -2054,8 +2054,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_020.ebm",
-      "bytes": 174,
-      "sha256": "7ef515051b06313a27f83bc85bda8b3e4da3f10ec79049b1d5ca6a6f2dca1f5c"
+      "bytes": 147,
+      "sha256": "1f1512c42074c1c11855f0d7c5a52ec9c82f109725167ca6d5e22836edf7c0b5"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_030.ebm",
@@ -2074,8 +2074,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_060.ebm",
-      "bytes": 1085,
-      "sha256": "d468f7a2ebfdc32ddfcb17db6cd3be85ccbdce5ffec366339df837af588300c1"
+      "bytes": 953,
+      "sha256": "bd0830d682a5f82c0c6d9206cc27d4105fe948feb9575767e66f3141ebfd2349"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_070.ebm",
@@ -2089,8 +2089,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_090.ebm",
-      "bytes": 1946,
-      "sha256": "f5a61d0bbe108ef7290599ca364c5a898848ba50000ca90cf9e56f39791d3dc1"
+      "bytes": 1619,
+      "sha256": "baa97357a4d42eafee695a8e35fac157b13aabd15e05b071524be18c85da2bb9"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_100.ebm",
@@ -2099,8 +2099,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_110.ebm",
-      "bytes": 1003,
-      "sha256": "f9f4fda416f2f6df42c8a4c1eb278da8fa66f340551dfced1119b4e72b5f4e80"
+      "bytes": 892,
+      "sha256": "d0ae86d4ba99b43569814795fd6db5b54b164235cfd795409c8928eb816cea77"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_120.ebm",
@@ -2129,28 +2129,28 @@
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_170.ebm",
-      "bytes": 1423,
-      "sha256": "06ba22dd62c84dd7bf59250a6cd09baa5102a797dbc741f365b7b96b337fb53a"
+      "bytes": 1231,
+      "sha256": "e96ffdc3c6ff9688848e597a6381ba364e3b3c981e33e54c5c936dd840c6a522"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_180.ebm",
-      "bytes": 595,
-      "sha256": "fa27b9206095b13f6cd001f0407cc8c99c7254c409bbfcca039a5573f97f8fa8"
+      "bytes": 454,
+      "sha256": "3d75a11bcacf61513d760fc4d3ab79423df478be3b0612f060bd84337932bb05"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_190.ebm",
-      "bytes": 699,
-      "sha256": "09197402df38615cca2dd4a72767bcc6652c18348cbf1268cdc9c3bcf58f705a"
+      "bytes": 603,
+      "sha256": "3b7bfcc58f68b156f24526beb4a63d2d199dc85a4d3e351fe8ed6658587a25b6"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_200.ebm",
-      "bytes": 2604,
-      "sha256": "cb88de9b503a80cb347257dc45329e827f58b3b26b9b5b1c062b6580a5daacca"
+      "bytes": 2145,
+      "sha256": "505984ae8cc04f61e6ef37ab14fe6f099098e09f8073af393657a4554040a3d9"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_210.ebm",
-      "bytes": 3345,
-      "sha256": "31fc5d4e6f7bd14cf66d6ac851e70b5f43907b021819495baeb486f8d9766035"
+      "bytes": 2907,
+      "sha256": "6bf975c020418f88f4c719e37579dd659ac6ceaad5a15382b3a4a08e8a2281a9"
     },
     {
       "path": "payload/MASTER/CHT/Event/event/MM07/EVENT_MESSAGE_MM07_220.ebm",
@@ -6299,13 +6299,13 @@
     },
     {
       "path": "밤이 없는 나라 2 한국어 패치.exe",
-      "bytes": 1213952,
-      "sha256": "485c67381aead1a8dda58d84b027644a5e0448d8bddb49fb19965bb6694bfe61"
+      "bytes": 1717760,
+      "sha256": "59abc8ff7c716712ac03b3e6d26d7c78f838b1d1361bbf5c9e8d71f7a278de03"
     },
     {
       "path": "사용법.txt",
-      "bytes": 5655,
-      "sha256": "3209b0771f8a02f1fc5331fc155748f68e1b525c65a37d154007f6a79bceac85"
+      "bytes": 6033,
+      "sha256": "ba9a68b3cab1cf89a00721a88a4b19d1a9f8eb2a81e111b6a717ce6b28556817"
     }
   ]
 }
