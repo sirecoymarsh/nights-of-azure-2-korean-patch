@@ -1,7 +1,7 @@
 {
   "schema": "noa2-integrated-patch-v1",
   "title": "밤이 없는 나라 2 ~신월의 신부~",
-  "version": "2026.09.24-rc8",
+  "version": "2026.09.24-rc9",
   "translator_model": "Codex internal",
   "semantic_source": "Japanese",
   "language_slot": "CHT",
@@ -11124,12 +11124,13 @@
     },
     {
       "path": "MASTER/CHT/Layout/10_title_top.kscl",
-      "hash": "be58e189dda8d9beef3b2230a71eae4f9e5a52cbc99db0a8f68b92df2c3a8406",
-      "size": 8955918,
+      "hash": "e710ddb6325e8af68c6b78c7bf79205a5abd92c185e8e4e7b4b636dec1f21967",
+      "size": 8956208,
       "accepted": [
         "4ffa60e67861fd1feb14f3d642649b3bd5003935a90d54c4ea07c46872ad9083",
         "be58e189dda8d9beef3b2230a71eae4f9e5a52cbc99db0a8f68b92df2c3a8406",
-        "8b8886061ff84a717fb46ef17cb1b9738aba568c3c4557f8325e1e989a0e6b5e"
+        "8b8886061ff84a717fb46ef17cb1b9738aba568c3c4557f8325e1e989a0e6b5e",
+        "e710ddb6325e8af68c6b78c7bf79205a5abd92c185e8e4e7b4b636dec1f21967"
       ]
     },
     {
@@ -11143,11 +11144,12 @@
     },
     {
       "path": "MASTER/CHT/Layout/20_collect.kscl",
-      "hash": "b0dd4e8912ed16cb03a36df8276f8dfd0ed02267ebfdec27ff611ec1162a7ad1",
+      "hash": "725366f095041fc5c3cf99173d327b89fe7f834f8f3bf33881651f7bcfb91ef2",
       "size": 1638747,
       "accepted": [
         "3ab316a558fe8709c9abc5eb445d950e91332f8d90dc32161135fcacd142cd99",
-        "b0dd4e8912ed16cb03a36df8276f8dfd0ed02267ebfdec27ff611ec1162a7ad1"
+        "b0dd4e8912ed16cb03a36df8276f8dfd0ed02267ebfdec27ff611ec1162a7ad1",
+        "725366f095041fc5c3cf99173d327b89fe7f834f8f3bf33881651f7bcfb91ef2"
       ]
     },
     {
@@ -11752,12 +11754,13 @@
     },
     {
       "path": "MASTER/CHT/Saves/description/description.xml.e",
-      "hash": "5f0e0c730e844c2957b0225ace9f792c700a47dead56d13234aa0c422f196b4d",
-      "size": 387920,
+      "hash": "52b487c2160f1b5e31e6992a76151a6505f131a71f7538f446f62397347444cd",
+      "size": 386528,
       "accepted": [
         "5269e98e318f0facec3da67a8da2a807310cee266ba4e37b5ebbfef0455053d1",
         "5f0e0c730e844c2957b0225ace9f792c700a47dead56d13234aa0c422f196b4d",
-        "7b70cbda362f5660f32bf7c9987e0e38e49b4b46973a5673afc9701fd0ebbfd3"
+        "7b70cbda362f5660f32bf7c9987e0e38e49b4b46973a5673afc9701fd0ebbfd3",
+        "52b487c2160f1b5e31e6992a76151a6505f131a71f7538f446f62397347444cd"
       ]
     },
     {
@@ -11821,13 +11824,14 @@
     },
     {
       "path": "Nights of Azure 2_CHT.exe",
-      "hash": "e3591e448e91ad8f110cde2b220e68b6484295be47768de1fb8a484534e9e0bc",
+      "hash": "7a68aa7363b6b4680a0213b0d601ccd96b9f56677a188c395cc3b23d2ecae3a2",
       "size": 15687680,
       "accepted": [
         "1442021f06059920f418b359ae67e5635a8ea0eb51cbd6abc8f581b0afac181d",
         "b335e011c60824780da1d5be54dbc3b3e65fabd965ae2968b9192de7839a53c3",
         "626c6afb0d902b8d94c64ac3209de351ec69bf20e34f25cfa30ac5211e99777c",
-        "e3591e448e91ad8f110cde2b220e68b6484295be47768de1fb8a484534e9e0bc"
+        "e3591e448e91ad8f110cde2b220e68b6484295be47768de1fb8a484534e9e0bc",
+        "7a68aa7363b6b4680a0213b0d601ccd96b9f56677a188c395cc3b23d2ecae3a2"
       ]
     },
     {
@@ -11858,5 +11862,6 @@
       ]
     }
   ],
-  "updater_protocol": 1
+  "updater_protocol": 1,
+  "data_protocol": 1
 }

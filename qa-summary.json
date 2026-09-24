@@ -1,37 +1,42 @@
 {
-  "release": "v2026.09.24-rc8",
+  "release": "v2026.09.24-rc9",
+  "prerelease": true,
   "translator_model": "Codex internal",
-  "semantic_source": "Japanese",
-  "language_slot": "CHT",
+  "data_protocol": 1,
+  "launcher_version": "1.0",
   "payload_files": 1266,
-  "game_payload_unchanged_from_rc7": true,
-  "updater_protocol": 1,
-  "update_mode": "notify_then_one_click_install",
-  "new_checks": {
-    "state_ui": 43,
-    "state_files": 22
-  },
-  "extracted_zip_install_and_exact_restore": "PASS",
-  "independent_launcher_review": "PASS",
-  "prior_unchanged_core_checks": {
-    "update_validation": 55,
-    "update_handoff": 44,
-    "github_download": 4,
-    "installer_matrix": {
-      "strict": 32,
-      "overwrite": 29
-    }
-  },
+  "changed_game_files": 4,
+  "collection_items_checked": 54,
+  "collection_font_size_unchanged": true,
+  "data_update_checks": 34,
+  "launcher_ui_checks": 43,
+  "strict_installer_checks": 32,
+  "overwrite_installer_checks": 29,
+  "full_and_data_zip_install_exact_restore": "PASS",
+  "independent_read_only_review": "PASS",
   "defender": {
     "status": "PASS",
-    "targets": 7,
-    "new_relevant_detections": 0,
-    "signature": "1.459.366.0"
+    "targets": 13,
+    "signature": "1.459.366.0",
+    "new_relevant_detections": 0
   },
-  "launcher_sha256": "533aa18a4c91b21468b9d50260c274b6296b4de419059ef234fe1576619faf06",
-  "zip_sha256": "b12b38493be7c7c4e4e960d4f91acc548a8f34b2b008172aaca8667c496ca54a",
-  "zip_bytes": 284419522,
-  "latest_pristine_steam_runtime": "not verified",
-  "actual_gameplay_ui_review": "user review pending",
-  "prerelease": true
+  "launcher_sha256": "efa7ce63f4ff51097dda0f1c4830fdeabdbd2e4e22e963eaf392cb0c337ca771",
+  "archives": {
+    "bridge": {
+      "name": "Nights_of_Azure_2_Korean_Patch_2026-09-24_RC9.zip",
+      "sha256": "4ad23caf739b9ebe64c6f1be114d0b6bb797c3a56cf0a815e5f8226b0af2b943",
+      "bytes": 284556814
+    },
+    "data": {
+      "name": "Nights_of_Azure_2_Korean_Data_2026-09-24_RC9.zip",
+      "sha256": "6306c5e186519c7d87fd196ac27c7e760c4f73580e06db4ffb413e6c3e3b535b",
+      "bytes": 280909531
+    },
+    "launcher": {
+      "name": "Nights_of_Azure_2_Korean_Launcher_1.0.zip",
+      "sha256": "4f765bca31ff66a617933aa0365b3ac6dc05ad81dd6755c13d6258e3b132c3b7",
+      "bytes": 3648570
+    }
+  },
+  "runtime_game_version_and_collection_layout": "user verification pending"
 }

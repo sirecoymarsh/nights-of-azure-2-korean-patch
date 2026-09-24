@@ -1,6 +1,7 @@
 {
-  "version": "2026.09.24-rc8",
+  "version": "2026.09.24-rc9",
   "translator_model": "Codex internal",
+  "manifest_signature": "aAJ0rmld1pwkVz2pkCV4GiRcp7rB9EZEUoLFFc+g+rTuHSGdm58iLu2ZQ0/AUMdYUK2jRbq+OHspJKkXbRNL7dfSO+qKu4wSKUcLFdjzSQktN87snv2drvv2Hm/vgY+RdaPMCj2xLIPbFlqWMwswVwLShlvsrR29Fo4MNl8pe/bdHIqmihq2LtKr8pDBqBGjP0FO2BVp2btQO0wazv5Rt8sTum4skbMHub9PCYWJU/Ky8WUTo28dckrwxLD12XCeGxfuYRRmzZre+3ABuZx7We0vNejXvO/mkb63hDB+hqOhFv9tljCsAkfKC67QDiDMJ9tclOA3uor/oiwF+LG0u0efwNsY9VNvlKZ83ZZDHGAfAE88MSyMLkbYuGs5rHJB78YU6y6Tnydl3WULF34plW2xs1fePhOOHYZdjQyDIQXp1zDMv5i71e8VUfJo32Rzkm9U7R7V1qZ3OVl5mOvOg2qnm4j0fBkLukqW+m2T2tInCnZtTBItRHFiZ3kAdxET",
   "files": [
     {
       "path": "LICENSE_MaruBuri.txt",
@@ -9,8 +10,8 @@
     },
     {
       "path": "manifest.json",
-      "bytes": 506297,
-      "sha256": "3d4cf19a18317d0c6078da329b1ab8b444beadafa5ab9e5fac13f1c0c8e8be8c"
+      "bytes": 506628,
+      "sha256": "238c51e4d688dc2910128cd4faa5b0983cea0e5beb5f49a0eec38ce4c7da6aee"
     },
     {
       "path": "payload/MASTER/CHT/Event/balloonsel/BalloonSelectData.bsb",
@@ -5959,8 +5960,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Layout/10_title_top.kscl",
-      "bytes": 8955918,
-      "sha256": "be58e189dda8d9beef3b2230a71eae4f9e5a52cbc99db0a8f68b92df2c3a8406"
+      "bytes": 8956208,
+      "sha256": "e710ddb6325e8af68c6b78c7bf79205a5abd92c185e8e4e7b4b636dec1f21967"
     },
     {
       "path": "payload/MASTER/CHT/Layout/20_base_shortcut.kscl",
@@ -5970,7 +5971,7 @@
     {
       "path": "payload/MASTER/CHT/Layout/20_collect.kscl",
       "bytes": 1638747,
-      "sha256": "b0dd4e8912ed16cb03a36df8276f8dfd0ed02267ebfdec27ff611ec1162a7ad1"
+      "sha256": "725366f095041fc5c3cf99173d327b89fe7f834f8f3bf33881651f7bcfb91ef2"
     },
     {
       "path": "payload/MASTER/CHT/Layout/20_extra.kscl",
@@ -6289,8 +6290,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Saves/description/description.xml.e",
-      "bytes": 387920,
-      "sha256": "5f0e0c730e844c2957b0225ace9f792c700a47dead56d13234aa0c422f196b4d"
+      "bytes": 386528,
+      "sha256": "52b487c2160f1b5e31e6992a76151a6505f131a71f7538f446f62397347444cd"
     },
     {
       "path": "payload/MASTER/CHT/Saves/name/name.xml.e",
@@ -6325,7 +6326,7 @@
     {
       "path": "payload/Nights of Azure 2_CHT.exe",
       "bytes": 15687680,
-      "sha256": "e3591e448e91ad8f110cde2b220e68b6484295be47768de1fb8a484534e9e0bc"
+      "sha256": "7a68aa7363b6b4680a0213b0d601ccd96b9f56677a188c395cc3b23d2ecae3a2"
     },
     {
       "path": "payload/Nights of Azure 2_Env.exe",
@@ -6343,14 +6344,9 @@
       "sha256": "f99914003903ce9e6951733303557a1891332e4d8d6e161a0f733dc0f09d3a06"
     },
     {
-      "path": "밤이 없는 나라 2 한국어 패치.exe",
-      "bytes": 12063232,
-      "sha256": "533aa18a4c91b21468b9d50260c274b6296b4de419059ef234fe1576619faf06"
-    },
-    {
       "path": "사용법.txt",
-      "bytes": 9451,
-      "sha256": "413cdfabe6139ae1345cf58b77b179ea1afc1e70e76ad9e45f003d2a7cf64e96"
+      "bytes": 2513,
+      "sha256": "93a73886f960e00c7b6dcb742441b482727e91799e852ea02417ce9aa23b039a"
     }
   ]
 }
