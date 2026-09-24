@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.24-rc5",
+  "version": "2026.09.24-rc7",
   "translator_model": "Codex internal",
   "files": [
     {
@@ -9,8 +9,8 @@
     },
     {
       "path": "manifest.json",
-      "bytes": 501904,
-      "sha256": "afe959e60bf10ef958a64af58152728674a32ba0cdf98cdf6ee2cabe7c9f84c1"
+      "bytes": 506271,
+      "sha256": "a4b625eb9f624fbdab978df0e68bba36049364604cd79398bc0f6658919b0981"
     },
     {
       "path": "payload/MASTER/CHT/Event/balloonsel/BalloonSelectData.bsb",
@@ -5973,6 +5973,11 @@
       "sha256": "b0dd4e8912ed16cb03a36df8276f8dfd0ed02267ebfdec27ff611ec1162a7ad1"
     },
     {
+      "path": "payload/MASTER/CHT/Layout/20_extra.kscl",
+      "bytes": 3180310,
+      "sha256": "aa4207e54e3563b23b7913a12d70f4fcf8089be4f11a1f099cec22b00dd51630"
+    },
+    {
       "path": "payload/MASTER/CHT/Layout/20_mn_equip.kscl",
       "bytes": 1697773,
       "sha256": "b2543893669a2162918de6acabb70a7a1ccc983249b56a698db50e342ef14be3"
@@ -6036,6 +6041,11 @@
       "path": "payload/MASTER/CHT/Layout/30_btl_dc.kscl",
       "bytes": 917203,
       "sha256": "beae7aaf48965bf3fec3b107e826888aaa3b50bba4f34bec6b251d26986d31d2"
+    },
+    {
+      "path": "payload/MASTER/CHT/Layout/30_btl_gauge.kscl",
+      "bytes": 1242122,
+      "sha256": "590cbe40230850e41af6752b8f574eeb1496b5d577062ac27d93c3574f15ac50"
     },
     {
       "path": "payload/MASTER/CHT/Layout/30_btl_pausemenu_2.kscl",
@@ -6105,7 +6115,7 @@
     {
       "path": "payload/MASTER/CHT/Layout/50_quest_top.kscl",
       "bytes": 419846,
-      "sha256": "718a2e6d44086c34c996659038f0de05f093c4ffb1fee6c2d5b03d5bd42b121d"
+      "sha256": "f97dd10b50d7f55941a447de2f33311754ac7a516ffc0edac214f16165d95ebd"
     },
     {
       "path": "payload/MASTER/CHT/Layout/60_movie_win.kscl",
@@ -6125,7 +6135,7 @@
     {
       "path": "payload/MASTER/CHT/Layout/70_grow_sumn.kscl",
       "bytes": 2482090,
-      "sha256": "2c88e1dcdd804c372c456a3a30909f4e29ac10ca6005cc4ee91ca2bfbfbf6e63"
+      "sha256": "d1f09a94a013634e60c1fe52642ee432c0bf0bb467805e3cc564010582612eb1"
     },
     {
       "path": "payload/MASTER/CHT/Layout/80_tutorial_win.kscl",
@@ -6158,9 +6168,24 @@
       "sha256": "2706efd48f9b20ed7559f76416a5fee32e1768c1928eb2befc5401c6247437b1"
     },
     {
+      "path": "payload/MASTER/CHT/Layout/External/20_base_access.kslt",
+      "bytes": 125497,
+      "sha256": "b5f0a1e8b72b07594ae3a9655f85f826ca2a1659b05ad8d94f92f4087b72d787"
+    },
+    {
+      "path": "payload/MASTER/CHT/Layout/External/20_costume_list.kslt",
+      "bytes": 62776,
+      "sha256": "1578d81efa1d52f6de02ab0211764e30d235baba302d0c64853a4196899d6a37"
+    },
+    {
       "path": "payload/MASTER/CHT/Layout/External/20_mn_header.kslt",
       "bytes": 246894,
       "sha256": "486ef0f26fe41bf83608cc9ba99024fbef77706aab20f7764eecad5ceadd7528"
+    },
+    {
+      "path": "payload/MASTER/CHT/Layout/External/20_mn_item.kslt",
+      "bytes": 8142704,
+      "sha256": "87ce5495ff12dcbde993d41feebd2d682ba34242ba55a12059fe153d769ce10a"
     },
     {
       "path": "payload/MASTER/CHT/Layout/External/20_mn_pt_lily.kslt",
@@ -6171,6 +6196,11 @@
       "path": "payload/MASTER/CHT/Layout/External/20_mn_pt_lily_2.kslt",
       "bytes": 23455279,
       "sha256": "13b7307d8b9bca4e1dc198c64878dae1083a58499d64da5f0c4adecbf0de992b"
+    },
+    {
+      "path": "payload/MASTER/CHT/Layout/External/20_mn_pt_sumn.kslt",
+      "bytes": 54568,
+      "sha256": "5dc8427ca4cccc453d34401b6b9565f4e492291b7b5b60645ebc1290e66f291b"
     },
     {
       "path": "payload/MASTER/CHT/Layout/External/20_mn_top.kslt",
@@ -6186,6 +6216,11 @@
       "path": "payload/MASTER/CHT/Layout/External/30_btl_combo.kslt",
       "bytes": 85733,
       "sha256": "0203dc09d293bee9488984a60ed722c3accc0fed9d00972e3a4b1391f2d9c7af"
+    },
+    {
+      "path": "payload/MASTER/CHT/Layout/External/30_btl_gauge.kslt",
+      "bytes": 609791,
+      "sha256": "2cad63cd1d9161f6ec7c2fecfd9061bbc8285584b3ca9e7396383a1590949022"
     },
     {
       "path": "payload/MASTER/CHT/Layout/External/30_btl_getitem.kslt",
@@ -6231,6 +6266,16 @@
       "path": "payload/MASTER/CHT/Layout/External/98_icon_new.kslt",
       "bytes": 16005,
       "sha256": "b2c6cd434a6e69fb376f589d33871f8e1ee159d4d566640c44c02c165d11dce7"
+    },
+    {
+      "path": "payload/MASTER/CHT/Layout/External/98_stl_item_l.kslt",
+      "bytes": 7313726,
+      "sha256": "57f9c64a89bf9b177a13a92d67bd0bcec4ffa1f0a7bf130d5f915b9da36e9971"
+    },
+    {
+      "path": "payload/MASTER/CHT/Layout/External/98_stl_sumn_s.kslt",
+      "bytes": 790202,
+      "sha256": "9b50a6f009a88243b0109949ae21f53f8152e12b50a6d2dc676ec222ecff948e"
     },
     {
       "path": "payload/MASTER/CHT/Layout/LilyFont.g1n",
@@ -6280,7 +6325,7 @@
     {
       "path": "payload/Nights of Azure 2_CHT.exe",
       "bytes": 15687680,
-      "sha256": "b335e011c60824780da1d5be54dbc3b3e65fabd965ae2968b9192de7839a53c3"
+      "sha256": "e3591e448e91ad8f110cde2b220e68b6484295be47768de1fb8a484534e9e0bc"
     },
     {
       "path": "payload/Nights of Azure 2_Env.exe",
@@ -6299,13 +6344,13 @@
     },
     {
       "path": "밤이 없는 나라 2 한국어 패치.exe",
-      "bytes": 1717760,
-      "sha256": "59abc8ff7c716712ac03b3e6d26d7c78f838b1d1361bbf5c9e8d71f7a278de03"
+      "bytes": 1729024,
+      "sha256": "c8b0879fd4cc5c40ba20e9df931a8d190ba9a20ddec0c87d13f03d8b2a5279f5"
     },
     {
       "path": "사용법.txt",
-      "bytes": 6033,
-      "sha256": "ba9a68b3cab1cf89a00721a88a4b19d1a9f8eb2a81e111b6a717ce6b28556817"
+      "bytes": 6919,
+      "sha256": "d56ce1e140b5a376c9a13f90397799828dddf8c51066557b7226e6958ba2ce4a"
     }
   ]
 }

@@ -1,21 +1,12 @@
 {
   "schema": "noa2-integrated-patch-v1",
   "title": "밤이 없는 나라 2 ~신월의 신부~",
-  "version": "2026.09.24-rc5",
+  "version": "2026.09.24-rc7",
   "translator_model": "Codex internal",
   "semantic_source": "Japanese",
   "language_slot": "CHT",
   "restore": "exact pre-install state",
   "entries": [
-    {
-      "path": "Manual/Nights of Azure 2_CHT.pdf",
-      "hash": "dc525cff25280cedd9ae6092a5f7cf1b3cde6383e647e9cb115ea80c721cbfba",
-      "size": 534883,
-      "accepted": [
-        "cd89dddbbe309ad9e903dd51100d297f517e7c32d011b474b5b31b99839a3ef9",
-        "dc525cff25280cedd9ae6092a5f7cf1b3cde6383e647e9cb115ea80c721cbfba"
-      ]
-    },
     {
       "path": "MASTER/CHT/Event/balloonsel/BalloonSelectData.bsb",
       "hash": "85a9c9e160a6e4b2d5d20140097d89e299f41eb02013a5ed6f34f5b11952086a",
@@ -11160,6 +11151,16 @@
       ]
     },
     {
+      "path": "MASTER/CHT/Layout/20_extra.kscl",
+      "hash": "aa4207e54e3563b23b7913a12d70f4fcf8089be4f11a1f099cec22b00dd51630",
+      "size": 3180310,
+      "accepted": [
+        "736a0e49addf15f8e8d0ec8d44c842a2538112e39c9e09fa3696dd7fc4c8e766",
+        "da781365d706067aad7d075081181bc379bd3f03b5ab419ffae7492d25b2123c",
+        "aa4207e54e3563b23b7913a12d70f4fcf8089be4f11a1f099cec22b00dd51630"
+      ]
+    },
+    {
       "path": "MASTER/CHT/Layout/20_mn_equip.kscl",
       "hash": "b2543893669a2162918de6acabb70a7a1ccc983249b56a698db50e342ef14be3",
       "size": 1697773,
@@ -11277,6 +11278,16 @@
       "accepted": [
         "46cf7aacf882f98c3a2ec7afe812300c1e0d1ec9b1f0dc8136d81a551148c0bb",
         "beae7aaf48965bf3fec3b107e826888aaa3b50bba4f34bec6b251d26986d31d2"
+      ]
+    },
+    {
+      "path": "MASTER/CHT/Layout/30_btl_gauge.kscl",
+      "hash": "590cbe40230850e41af6752b8f574eeb1496b5d577062ac27d93c3574f15ac50",
+      "size": 1242122,
+      "accepted": [
+        "92f63941ad048c281a210ac9028e0d0b9675c7b87a928322b8731abbcbb9c711",
+        "45605694ef67a9a6d9dbafc22eb59fbcae9d1794f9b707a77f6a15a8d7403c36",
+        "590cbe40230850e41af6752b8f574eeb1496b5d577062ac27d93c3574f15ac50"
       ]
     },
     {
@@ -11401,11 +11412,13 @@
     },
     {
       "path": "MASTER/CHT/Layout/50_quest_top.kscl",
-      "hash": "718a2e6d44086c34c996659038f0de05f093c4ffb1fee6c2d5b03d5bd42b121d",
+      "hash": "f97dd10b50d7f55941a447de2f33311754ac7a516ffc0edac214f16165d95ebd",
       "size": 419846,
       "accepted": [
         "66b3facfd870e7887a427b64ef8fdfddcb0d81efee1b5e11c6195a454bcd6f4f",
-        "718a2e6d44086c34c996659038f0de05f093c4ffb1fee6c2d5b03d5bd42b121d"
+        "718a2e6d44086c34c996659038f0de05f093c4ffb1fee6c2d5b03d5bd42b121d",
+        "714a0373ade7cf49223d0b9bba10a0352e816cb40a05ce4496c1aba950078f1f",
+        "f97dd10b50d7f55941a447de2f33311754ac7a516ffc0edac214f16165d95ebd"
       ]
     },
     {
@@ -11438,12 +11451,14 @@
     },
     {
       "path": "MASTER/CHT/Layout/70_grow_sumn.kscl",
-      "hash": "2c88e1dcdd804c372c456a3a30909f4e29ac10ca6005cc4ee91ca2bfbfbf6e63",
+      "hash": "d1f09a94a013634e60c1fe52642ee432c0bf0bb467805e3cc564010582612eb1",
       "size": 2482090,
       "accepted": [
         "9c4c1cda30e438737d2b39796a10b67996c4c796fbc823460b77a52820c17814",
         "2c88e1dcdd804c372c456a3a30909f4e29ac10ca6005cc4ee91ca2bfbfbf6e63",
-        "5ccb8f0c8f0bf266113161609192534b70c0a3e142a201db599dc986cfd0f0a5"
+        "5ccb8f0c8f0bf266113161609192534b70c0a3e142a201db599dc986cfd0f0a5",
+        "9099a4c1c0a00345b2a5c4891ff911a9ef9238743c6736047bf3ee07d2797099",
+        "d1f09a94a013634e60c1fe52642ee432c0bf0bb467805e3cc564010582612eb1"
       ]
     },
     {
@@ -11503,12 +11518,42 @@
       ]
     },
     {
+      "path": "MASTER/CHT/Layout/External/20_base_access.kslt",
+      "hash": "b5f0a1e8b72b07594ae3a9655f85f826ca2a1659b05ad8d94f92f4087b72d787",
+      "size": 125497,
+      "accepted": [
+        "87db81707d261cd33101aa933c563298249d6644e4f6c1962e2b249bb3f42bfe",
+        "899b2b66a2111b00354b206b0d213374aaee8ee3cfdb59b5f9431f930c4f763c",
+        "b5f0a1e8b72b07594ae3a9655f85f826ca2a1659b05ad8d94f92f4087b72d787"
+      ]
+    },
+    {
+      "path": "MASTER/CHT/Layout/External/20_costume_list.kslt",
+      "hash": "1578d81efa1d52f6de02ab0211764e30d235baba302d0c64853a4196899d6a37",
+      "size": 62776,
+      "accepted": [
+        "6245019cecfb063edb07d27215556f97b7727679b86fadcdd9da376676f83752",
+        "af9331c927a9ab0487d7c0d3469e347d0dc3cd9ce93c207e825601c1008dfcba",
+        "1578d81efa1d52f6de02ab0211764e30d235baba302d0c64853a4196899d6a37"
+      ]
+    },
+    {
       "path": "MASTER/CHT/Layout/External/20_mn_header.kslt",
       "hash": "486ef0f26fe41bf83608cc9ba99024fbef77706aab20f7764eecad5ceadd7528",
       "size": 246894,
       "accepted": [
         "88f4af858612dca6b6806672b9054ec7acb2fbb719547323dcb8bbb3df57c788",
         "486ef0f26fe41bf83608cc9ba99024fbef77706aab20f7764eecad5ceadd7528"
+      ]
+    },
+    {
+      "path": "MASTER/CHT/Layout/External/20_mn_item.kslt",
+      "hash": "87ce5495ff12dcbde993d41feebd2d682ba34242ba55a12059fe153d769ce10a",
+      "size": 8142704,
+      "accepted": [
+        "547b72abf92046822db5918317ab2d07ae55ed5906e9a3ce316a727cd55bf230",
+        "c084ad63fb57f27908162ca01c90d75182bc50dc30cfc7fc9c4dc112e0a5f3a5",
+        "87ce5495ff12dcbde993d41feebd2d682ba34242ba55a12059fe153d769ce10a"
       ]
     },
     {
@@ -11529,6 +11574,16 @@
         "7602694e6fb4eee1e71b8e9807f7206ceb5e6dda5504a21592e58892a5d353eb",
         "13b7307d8b9bca4e1dc198c64878dae1083a58499d64da5f0c4adecbf0de992b",
         "d57b8e337fc5eefd97f63e5508f18587c840810b4cc4a218c5c8ba999b66891d"
+      ]
+    },
+    {
+      "path": "MASTER/CHT/Layout/External/20_mn_pt_sumn.kslt",
+      "hash": "5dc8427ca4cccc453d34401b6b9565f4e492291b7b5b60645ebc1290e66f291b",
+      "size": 54568,
+      "accepted": [
+        "c1f226f5faccbfe9e5bc7bb81b05132796ec1ca90bb52b9c132f950a45581c9f",
+        "e14b73e0d7eb4fe908665cafdedd48bbd8405814ceffba955f27223316df9500",
+        "5dc8427ca4cccc453d34401b6b9565f4e492291b7b5b60645ebc1290e66f291b"
       ]
     },
     {
@@ -11558,6 +11613,16 @@
         "f4f5bb6a78e23af9f7bb72d6d2b48b98886e07963815f1af51eaccf21cc52308",
         "0203dc09d293bee9488984a60ed722c3accc0fed9d00972e3a4b1391f2d9c7af",
         "5030802fd573fc36da22a93ea98c7154b431838d07b3a4b2933c1358032a074e"
+      ]
+    },
+    {
+      "path": "MASTER/CHT/Layout/External/30_btl_gauge.kslt",
+      "hash": "2cad63cd1d9161f6ec7c2fecfd9061bbc8285584b3ca9e7396383a1590949022",
+      "size": 609791,
+      "accepted": [
+        "a21d6264154ffcb59c2ca45e5b9cd17c4cdea8f7b6fd93b0f7c66e5bd2001d9e",
+        "524b4555ce8d0a93836ab39e0ce2eab222bd6c4843ba0ffaf3531bc10658a6f8",
+        "2cad63cd1d9161f6ec7c2fecfd9061bbc8285584b3ca9e7396383a1590949022"
       ]
     },
     {
@@ -11646,6 +11711,26 @@
       ]
     },
     {
+      "path": "MASTER/CHT/Layout/External/98_stl_item_l.kslt",
+      "hash": "57f9c64a89bf9b177a13a92d67bd0bcec4ffa1f0a7bf130d5f915b9da36e9971",
+      "size": 7313726,
+      "accepted": [
+        "8ac4db92934dc7ff51e85a0dc4344646c7ad510a67b15a2163a5e2d8d6cedcb0",
+        "f94551860cef49b1d12ba94b96b94879983ed77a862248c7bb278ecd5b9a2053",
+        "57f9c64a89bf9b177a13a92d67bd0bcec4ffa1f0a7bf130d5f915b9da36e9971"
+      ]
+    },
+    {
+      "path": "MASTER/CHT/Layout/External/98_stl_sumn_s.kslt",
+      "hash": "9b50a6f009a88243b0109949ae21f53f8152e12b50a6d2dc676ec222ecff948e",
+      "size": 790202,
+      "accepted": [
+        "2a1342ba2a656ffaf00889d7b725d252e3fdca4c8b2296177b6b7b1622c87664",
+        "e9e94b4136e6e08dc4fd5758bc633f4f8acd6e9561b7105a4abc19a0c0805e06",
+        "9b50a6f009a88243b0109949ae21f53f8152e12b50a6d2dc676ec222ecff948e"
+      ]
+    },
+    {
       "path": "MASTER/CHT/Layout/LilyFont.g1n",
       "hash": "9424a0ccbdfb5418ab4a8fc821ac58ba19eeaa988507708c84ed0380dfc94036",
       "size": 38969864,
@@ -11726,13 +11811,23 @@
       ]
     },
     {
+      "path": "Manual/Nights of Azure 2_CHT.pdf",
+      "hash": "dc525cff25280cedd9ae6092a5f7cf1b3cde6383e647e9cb115ea80c721cbfba",
+      "size": 534883,
+      "accepted": [
+        "cd89dddbbe309ad9e903dd51100d297f517e7c32d011b474b5b31b99839a3ef9",
+        "dc525cff25280cedd9ae6092a5f7cf1b3cde6383e647e9cb115ea80c721cbfba"
+      ]
+    },
+    {
       "path": "Nights of Azure 2_CHT.exe",
-      "hash": "b335e011c60824780da1d5be54dbc3b3e65fabd965ae2968b9192de7839a53c3",
+      "hash": "e3591e448e91ad8f110cde2b220e68b6484295be47768de1fb8a484534e9e0bc",
       "size": 15687680,
       "accepted": [
         "1442021f06059920f418b359ae67e5635a8ea0eb51cbd6abc8f581b0afac181d",
         "b335e011c60824780da1d5be54dbc3b3e65fabd965ae2968b9192de7839a53c3",
-        "626c6afb0d902b8d94c64ac3209de351ec69bf20e34f25cfa30ac5211e99777c"
+        "626c6afb0d902b8d94c64ac3209de351ec69bf20e34f25cfa30ac5211e99777c",
+        "e3591e448e91ad8f110cde2b220e68b6484295be47768de1fb8a484534e9e0bc"
       ]
     },
     {

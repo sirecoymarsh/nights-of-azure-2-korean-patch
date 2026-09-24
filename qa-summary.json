@@ -1,31 +1,35 @@
 {
-  "release": "v2026.09.24-rc5",
+  "release": "v2026.09.24-rc7",
   "translator_model": "Codex internal",
-  "payload_files": 1257,
-  "movie_subtitles_scanned": 493,
-  "movie_padding_corrected": 465,
-  "movie_files_changed": 36,
-  "spoken_text_timing_and_other_dialogue_unchanged": true,
-  "launcher_fix": "Long paths in managed I/O and atomic native replacement; existing backup identities retained",
+  "semantic_source": "Japanese",
+  "language_slot": "CHT",
+  "payload_files": 1266,
+  "raster_textures": 76,
+  "raster_containers_changed_since_rc6": 11,
+  "rc6_payload_files_preserved": 1255,
+  "native_geometry_and_protected_art": "PASS",
+  "source_text_clean_plates": "PASS",
+  "independent_visual_review": "PASS",
+  "deterministic_raster_rebuild": "PASS",
+  "ap_english_override_fix_included": true,
   "tests": {
     "strict": 32,
-    "overwrite": 29,
-    "longpath": 18
+    "overwrite": 29
   },
   "transaction_fixture_entries": 128,
-  "longpath_fixture_entries": 3,
-  "extracted_zip_fixture_entries": 1257,
-  "previous_release_recovery_tests": 10,
-  "support_tests": 11,
-  "close_tests": 13,
-  "extracted_zip_install_and_restore": "PASS",
+  "extracted_zip_fixture_entries": 1266,
+  "extracted_zip_install_and_exact_restore": "PASS",
   "defender": {
     "status": "PASS",
     "targets": 7,
-    "new_relevant_detections": 0
+    "new_relevant_detections": 0,
+    "signature": "1.459.366.0"
   },
-  "launcher_sha256": "59abc8ff7c716712ac03b3e6d26d7c78f838b1d1361bbf5c9e8d71f7a278de03",
-  "zip_sha256": "afe0ef121d69eafa983687cdc9633560c3bfd2d1aa0631838a15f19ce128ce32",
-  "actual_movie_rendering": "pending user review",
-  "latest_pristine_steam_runtime": "not verified"
+  "launcher_sha256": "c8b0879fd4cc5c40ba20e9df931a8d190ba9a20ddec0c87d13f03d8b2a5279f5",
+  "zip_sha256": "4bd7707607fd5f854d41fd56b7e9406d60f7d30adcfcae2e4782b6a766599cc8",
+  "zip_bytes": 281794845,
+  "launcher_window": "user confirmed visible",
+  "actual_gameplay_and_ui_compositing": "pending user review",
+  "latest_pristine_steam_runtime": "not verified",
+  "prerelease": true
 }
