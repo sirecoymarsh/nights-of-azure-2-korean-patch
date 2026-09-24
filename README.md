@@ -1,9 +1,15 @@
 # 밤이 없는 나라 2 ~신월의 신부~ 한국어 패치
 
+## 런처 1.0.1 수정 — 2026-09-25
+
+**‘설치 전 파일 목록이 손상되었습니다’ 오류는 정상 백업을 잘못 판정한 런처 버그였습니다.** 백업 내용은 보존하고 검증 방식을 수정했습니다. RC9 패치 데이터는 변경하지 않았습니다.
+
+[수정 런처 1.0.1 받기](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/releases/download/v2026.09.24-rc9/Nights_of_Azure_2_Korean_Launcher_1.0.1.zip)를 풀고 새 실행파일을 사용하세요. 기존 RC8/런처 1.0 바로가기는 구형 프로그램을 열 수 있습니다. 창 상단의 **런처 1.0.1**을 확인하세요. 전체 RC9 패키지에도 수정 런처를 포함했습니다.
+
 최신 누적 시험판은 **2026.09.24 RC9**입니다. 고정 런처에서 데이터를 업데이트하며, 컬렉션 아이템 설명 겹침과 게임 내 버전 표시를 수정했습니다.
 
 - [RC9 다운로드 및 변경 내용](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/releases/tag/v2026.09.24-rc9)
-- [작은 고정 런처 — 데이터 자동 다운로드](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/releases/download/v2026.09.24-rc9/Nights_of_Azure_2_Korean_Launcher_1.0.zip)
+- [작은 고정 런처 — 데이터 자동 다운로드](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/releases/download/v2026.09.24-rc9/Nights_of_Azure_2_Korean_Launcher_1.0.1.zip)
 - [오프라인 설치용 전체 패키지](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/releases/download/v2026.09.24-rc9/Nights_of_Azure_2_Korean_Patch_2026-09-24_RC9.zip)
 - [사용법](README_KO.txt) · [파일 해시](SHA256SUMS.txt) · [검증 요약](qa-summary.json)
 - [버그 제보 및 오역 수정](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/issues/new/choose)

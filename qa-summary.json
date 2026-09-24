@@ -3,7 +3,7 @@
   "prerelease": true,
   "translator_model": "Codex internal",
   "data_protocol": 1,
-  "launcher_version": "1.0",
+  "launcher_version": "1.0.1",
   "payload_files": 1266,
   "changed_game_files": 4,
   "collection_items_checked": 54,
@@ -16,27 +16,36 @@
   "independent_read_only_review": "PASS",
   "defender": {
     "status": "PASS",
-    "targets": 13,
-    "signature": "1.459.366.0",
+    "targets": 7,
+    "signature": "1.459.374.0",
     "new_relevant_detections": 0
   },
-  "launcher_sha256": "efa7ce63f4ff51097dda0f1c4830fdeabdbd2e4e22e963eaf392cb0c337ca771",
+  "launcher_sha256": "2fcc615051825d7decce9ff4934fe4ad8654d4cea018b1c91b077cb6e326f9fb",
   "archives": {
+    "launcher": {
+      "name": "Nights_of_Azure_2_Korean_Launcher_1.0.1.zip",
+      "sha256": "bf28075ad3884feb98d9e970d0bb4c2c5493ac07a846201fb8797de4fe0af3af",
+      "bytes": 3648049
+    },
     "bridge": {
       "name": "Nights_of_Azure_2_Korean_Patch_2026-09-24_RC9.zip",
-      "sha256": "4ad23caf739b9ebe64c6f1be114d0b6bb797c3a56cf0a815e5f8226b0af2b943",
-      "bytes": 284556814
+      "sha256": "667e09eead80a17a8b8badc3f052220c8c031a1a8399307c4c6ac1c40e7095a1",
+      "bytes": 284556284
     },
     "data": {
       "name": "Nights_of_Azure_2_Korean_Data_2026-09-24_RC9.zip",
       "sha256": "6306c5e186519c7d87fd196ac27c7e760c4f73580e06db4ffb413e6c3e3b535b",
       "bytes": 280909531
-    },
-    "launcher": {
-      "name": "Nights_of_Azure_2_Korean_Launcher_1.0.zip",
-      "sha256": "4f765bca31ff66a617933aa0365b3ac6dc05ad81dd6755c13d6258e3b132c3b7",
-      "bytes": 3648570
     }
   },
-  "runtime_game_version_and_collection_layout": "user verification pending"
+  "runtime_game_version_and_collection_layout": "user verification pending",
+  "launcher_hotfix": {
+    "date": "2026-09-25",
+    "cold_process_checks": 78,
+    "writer_bytes_identical_across_process_orders": true,
+    "actual_existing_backup_read": "PASS",
+    "actual_game_files_unchanged": true,
+    "independent_read_only_review": "PASS",
+    "full_zip_install_exact_restore": "PASS"
+  }
 }
