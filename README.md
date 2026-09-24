@@ -1,11 +1,13 @@
 # 밤이 없는 나라 2 ~신월의 신부~ 한국어 패치
 
-최신 누적 시험판은 **2026.09.25 RC10**이며, 고정 런처는 **1.0.1**입니다.
+최신 누적 시험판은 **2026.09.25 RC10**이며, 고정 런처는 **1.0.3**입니다.
 
-**RC9의 로고·영상 후 종료 오류를 수정했습니다.** 기존 런처 1.0.1에서 **한국어 패치 업데이트**를 누르세요. 런처 실행파일은 바뀌지 않습니다.
+**런처 1.0.3에서 게임 시작·설정·상세 설정이 1분 넘게 걸리던 문제를 고쳤습니다.** 설치 전에는 남은 공간을 확인합니다. RC10 패치 데이터와 기존 백업은 그대로 쓰므로 런처만 바꾸면 됩니다.
+
+**RC9의 로고·영상 후 종료 오류를 수정했습니다.** 런처 1.0.3에서 **한국어 패치 업데이트**를 누르세요.
 
 - [RC10 변경 내용 및 데이터 다운로드](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/releases/tag/v2026.09.25-rc10)
-- [고정 런처 1.0.1 받기](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/releases/download/v2026.09.24-rc9/Nights_of_Azure_2_Korean_Launcher_1.0.1.zip)
+- [고정 런처 1.0.3 받기](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/releases/download/v2026.09.25-rc10/Nights_of_Azure_2_Korean_Launcher_1.0.3.zip)
 - [사용법](README_KO.txt) · [파일 해시](SHA256SUMS.txt) · [검증 요약](qa-summary.json)
 - [버그 제보 및 오역 수정](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/issues/new/choose)
 
