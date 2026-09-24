@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.24-rc7",
+  "version": "2026.09.24-rc8",
   "translator_model": "Codex internal",
   "files": [
     {
@@ -9,8 +9,8 @@
     },
     {
       "path": "manifest.json",
-      "bytes": 506271,
-      "sha256": "a4b625eb9f624fbdab978df0e68bba36049364604cd79398bc0f6658919b0981"
+      "bytes": 506297,
+      "sha256": "3d4cf19a18317d0c6078da329b1ab8b444beadafa5ab9e5fac13f1c0c8e8be8c"
     },
     {
       "path": "payload/MASTER/CHT/Event/balloonsel/BalloonSelectData.bsb",
@@ -6344,13 +6344,13 @@
     },
     {
       "path": "밤이 없는 나라 2 한국어 패치.exe",
-      "bytes": 1729024,
-      "sha256": "c8b0879fd4cc5c40ba20e9df931a8d190ba9a20ddec0c87d13f03d8b2a5279f5"
+      "bytes": 12063232,
+      "sha256": "533aa18a4c91b21468b9d50260c274b6296b4de419059ef234fe1576619faf06"
     },
     {
       "path": "사용법.txt",
-      "bytes": 6919,
-      "sha256": "d56ce1e140b5a376c9a13f90397799828dddf8c51066557b7226e6958ba2ce4a"
+      "bytes": 9451,
+      "sha256": "413cdfabe6139ae1345cf58b77b179ea1afc1e70e76ad9e45f003d2a7cf64e96"
     }
   ]
 }

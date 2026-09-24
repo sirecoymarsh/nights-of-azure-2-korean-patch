@@ -1,7 +1,7 @@
 {
   "schema": "noa2-integrated-patch-v1",
   "title": "밤이 없는 나라 2 ~신월의 신부~",
-  "version": "2026.09.24-rc7",
+  "version": "2026.09.24-rc8",
   "translator_model": "Codex internal",
   "semantic_source": "Japanese",
   "language_slot": "CHT",
@@ -11857,5 +11857,6 @@
         "f99914003903ce9e6951733303557a1891332e4d8d6e161a0f733dc0f09d3a06"
       ]
     }
-  ]
+  ],
+  "updater_protocol": 1
 }
