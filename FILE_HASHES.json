@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.24-rc9",
+  "version": "2026.09.25-rc10",
   "translator_model": "Codex internal",
-  "manifest_signature": "aAJ0rmld1pwkVz2pkCV4GiRcp7rB9EZEUoLFFc+g+rTuHSGdm58iLu2ZQ0/AUMdYUK2jRbq+OHspJKkXbRNL7dfSO+qKu4wSKUcLFdjzSQktN87snv2drvv2Hm/vgY+RdaPMCj2xLIPbFlqWMwswVwLShlvsrR29Fo4MNl8pe/bdHIqmihq2LtKr8pDBqBGjP0FO2BVp2btQO0wazv5Rt8sTum4skbMHub9PCYWJU/Ky8WUTo28dckrwxLD12XCeGxfuYRRmzZre+3ABuZx7We0vNejXvO/mkb63hDB+hqOhFv9tljCsAkfKC67QDiDMJ9tclOA3uor/oiwF+LG0u0efwNsY9VNvlKZ83ZZDHGAfAE88MSyMLkbYuGs5rHJB78YU6y6Tnydl3WULF34plW2xs1fePhOOHYZdjQyDIQXp1zDMv5i71e8VUfJo32Rzkm9U7R7V1qZ3OVl5mOvOg2qnm4j0fBkLukqW+m2T2tInCnZtTBItRHFiZ3kAdxET",
+  "manifest_signature": "ZgBf/KaWUVEdwDGLR1hyZPZ86sZ3JOK1esT4MXs7mfK3r5pufJi705xiQd5y4g5aHlobHbDo66S95yKmlXw8JFLmYOLathTQtGac4Beq/WtohE93EOCz2o2aMvWWb3JF6s4TTY2syiEa66Zhp2i8zsfRxsTrNeICHF2LdNeRJw4FgmT+4+Y0/tJFyYz34hEir3pQQZhO7DhJwYaDNaT/P0hZESzQ8sgUVfjfQsf98j4GPeWvVCe4l90LRBo1lEIhdDVwCam3PUwPsJ2LJ+IjJYfodF4nTXqZp3x2N1zXvnbb84rLAuHkuWQ2gzc1QSr34FiqFVV/oU/XxN02C5zJefqLPzxf+1xgfn+GRZ2berCeCe2u6sKIakfL8cbXX686haN2wWq00yKfWw1mX4ifNliIFzgl7LzQaEbQaIzBLaI1ALCjOdYXED4lW2wlfRwbhRMsueHQ7u9kZixIaWioRJ1iuTb3HLDmf55KHazJjlSCOO821DFoBZqAeZJV2ZYv",
   "files": [
     {
       "path": "LICENSE_MaruBuri.txt",
@@ -10,8 +10,8 @@
     },
     {
       "path": "manifest.json",
-      "bytes": 506628,
-      "sha256": "238c51e4d688dc2910128cd4faa5b0983cea0e5beb5f49a0eec38ce4c7da6aee"
+      "bytes": 506783,
+      "sha256": "10cf52f43cae11ba50119cd8dc8f49afefe3bbfe5b1c5df8bdfd1bdceecec800"
     },
     {
       "path": "payload/MASTER/CHT/Event/balloonsel/BalloonSelectData.bsb",
@@ -5960,8 +5960,8 @@
     },
     {
       "path": "payload/MASTER/CHT/Layout/10_title_top.kscl",
-      "bytes": 8956208,
-      "sha256": "e710ddb6325e8af68c6b78c7bf79205a5abd92c185e8e4e7b4b636dec1f21967"
+      "bytes": 8956210,
+      "sha256": "234bcf6148dd529226703425e6cf7c5dc9c1bd135ab5744067116ec3279ee81c"
     },
     {
       "path": "payload/MASTER/CHT/Layout/20_base_shortcut.kscl",
@@ -6326,7 +6326,7 @@
     {
       "path": "payload/Nights of Azure 2_CHT.exe",
       "bytes": 15687680,
-      "sha256": "7a68aa7363b6b4680a0213b0d601ccd96b9f56677a188c395cc3b23d2ecae3a2"
+      "sha256": "a45c63df25a7e30478dee66687a3d9287e73ce7d41a88b097e53fa17b3b794c6"
     },
     {
       "path": "payload/Nights of Azure 2_Env.exe",

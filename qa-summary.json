@@ -1,51 +1,20 @@
 {
-  "release": "v2026.09.24-rc9",
+  "release": "v2026.09.25-rc10",
   "prerelease": true,
   "translator_model": "Codex internal",
-  "data_protocol": 1,
   "launcher_version": "1.0.1",
+  "launcher_rebuilt": false,
+  "data_protocol": 1,
   "payload_files": 1266,
-  "changed_game_files": 4,
-  "collection_items_checked": 54,
-  "collection_font_size_unchanged": true,
-  "data_update_checks": 34,
-  "launcher_ui_checks": 43,
-  "strict_installer_checks": 32,
-  "overwrite_installer_checks": 29,
-  "full_and_data_zip_install_exact_restore": "PASS",
-  "independent_read_only_review": "PASS",
-  "defender": {
-    "status": "PASS",
-    "targets": 7,
-    "signature": "1.459.374.0",
-    "new_relevant_detections": 0
-  },
-  "launcher_sha256": "2fcc615051825d7decce9ff4934fe4ad8654d4cea018b1c91b077cb6e326f9fb",
-  "archives": {
-    "launcher": {
-      "name": "Nights_of_Azure_2_Korean_Launcher_1.0.1.zip",
-      "sha256": "bf28075ad3884feb98d9e970d0bb4c2c5493ac07a846201fb8797de4fe0af3af",
-      "bytes": 3648049
-    },
-    "bridge": {
-      "name": "Nights_of_Azure_2_Korean_Patch_2026-09-24_RC9.zip",
-      "sha256": "667e09eead80a17a8b8badc3f052220c8c031a1a8399307c4c6ac1c40e7095a1",
-      "bytes": 284556284
-    },
-    "data": {
-      "name": "Nights_of_Azure_2_Korean_Data_2026-09-24_RC9.zip",
-      "sha256": "6306c5e186519c7d87fd196ac27c7e760c4f73580e06db4ffb413e6c3e3b535b",
-      "bytes": 280909531
-    }
-  },
-  "runtime_game_version_and_collection_layout": "user verification pending",
-  "launcher_hotfix": {
-    "date": "2026-09-25",
-    "cold_process_checks": 78,
-    "writer_bytes_identical_across_process_orders": true,
-    "actual_existing_backup_read": "PASS",
-    "actual_game_files_unchanged": true,
-    "independent_read_only_review": "PASS",
-    "full_zip_install_exact_restore": "PASS"
-  }
+  "changed_game_files": 2,
+  "kscl_counts_checked": 42,
+  "crash_reproduced_rva": "0x823372",
+  "rc10_runtime_no_exceptions_seconds": 150.23,
+  "runtime_visual_review": "pending user",
+  "signed_data_verification": "PASS",
+  "zip_install_exact_restore": "PASS",
+  "independent_review": "PASS",
+  "defender_targets": 4,
+  "zip_sha256": "d12ff02f23985673dda0826a65df7d37418244125f5606e558b6b10e2acb0e68",
+  "zip_bytes": 280912154
 }
