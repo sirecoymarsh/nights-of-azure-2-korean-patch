@@ -1,7 +1,7 @@
 {
   "schema": "noa2-integrated-patch-v1",
   "title": "밤이 없는 나라 2 ~신월의 신부~",
-  "version": "2026.09.25-rc10",
+  "version": "2026.09.26-rc11",
   "translator_model": "Codex internal",
   "semantic_source": "Japanese",
   "language_slot": "CHT",
@@ -11124,14 +11124,15 @@
     },
     {
       "path": "MASTER/CHT/Layout/10_title_top.kscl",
-      "hash": "234bcf6148dd529226703425e6cf7c5dc9c1bd135ab5744067116ec3279ee81c",
+      "hash": "be9fb6742c86d6bb132be84e55a24749f54bad16604383c8300a48b16cde1df7",
       "size": 8956210,
       "accepted": [
         "4ffa60e67861fd1feb14f3d642649b3bd5003935a90d54c4ea07c46872ad9083",
         "be58e189dda8d9beef3b2230a71eae4f9e5a52cbc99db0a8f68b92df2c3a8406",
         "8b8886061ff84a717fb46ef17cb1b9738aba568c3c4557f8325e1e989a0e6b5e",
         "e710ddb6325e8af68c6b78c7bf79205a5abd92c185e8e4e7b4b636dec1f21967",
-        "234bcf6148dd529226703425e6cf7c5dc9c1bd135ab5744067116ec3279ee81c"
+        "234bcf6148dd529226703425e6cf7c5dc9c1bd135ab5744067116ec3279ee81c",
+        "be9fb6742c86d6bb132be84e55a24749f54bad16604383c8300a48b16cde1df7"
       ]
     },
     {
@@ -11323,12 +11324,13 @@
     },
     {
       "path": "MASTER/CHT/Layout/30_worldmap_2.kscl",
-      "hash": "eb507b43aa4b05967dd9b8e9e042fc504fa04c90cdd09b817afb82ed5d506eed",
+      "hash": "8a015972723f7c39bd403ecd6bf1528a7ab6900bca7821d9b53b8d9dcea80cf7",
       "size": 3710422,
       "accepted": [
         "72b9f52a94309b7752e64bed76c39a8db0287e6da690fcea82778cbf38964356",
         "eb507b43aa4b05967dd9b8e9e042fc504fa04c90cdd09b817afb82ed5d506eed",
-        "0b0b5704f20c21878e6592c07c03fd1b98c5c83f4fb754087641fc84a72fe800"
+        "0b0b5704f20c21878e6592c07c03fd1b98c5c83f4fb754087641fc84a72fe800",
+        "8a015972723f7c39bd403ecd6bf1528a7ab6900bca7821d9b53b8d9dcea80cf7"
       ]
     },
     {
@@ -11825,7 +11827,7 @@
     },
     {
       "path": "Nights of Azure 2_CHT.exe",
-      "hash": "a45c63df25a7e30478dee66687a3d9287e73ce7d41a88b097e53fa17b3b794c6",
+      "hash": "185635cfb2615cc897861fee5501a92258cfb81ba83b9663cc2c7d3377878eb7",
       "size": 15687680,
       "accepted": [
         "1442021f06059920f418b359ae67e5635a8ea0eb51cbd6abc8f581b0afac181d",
@@ -11833,7 +11835,8 @@
         "626c6afb0d902b8d94c64ac3209de351ec69bf20e34f25cfa30ac5211e99777c",
         "e3591e448e91ad8f110cde2b220e68b6484295be47768de1fb8a484534e9e0bc",
         "7a68aa7363b6b4680a0213b0d601ccd96b9f56677a188c395cc3b23d2ecae3a2",
-        "a45c63df25a7e30478dee66687a3d9287e73ce7d41a88b097e53fa17b3b794c6"
+        "a45c63df25a7e30478dee66687a3d9287e73ce7d41a88b097e53fa17b3b794c6",
+        "185635cfb2615cc897861fee5501a92258cfb81ba83b9663cc2c7d3377878eb7"
       ]
     },
     {

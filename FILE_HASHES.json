@@ -1,7 +1,7 @@
 {
-  "version": "2026.09.25-rc10",
+  "version": "2026.09.26-rc11",
   "translator_model": "Codex internal",
-  "manifest_signature": "ZgBf/KaWUVEdwDGLR1hyZPZ86sZ3JOK1esT4MXs7mfK3r5pufJi705xiQd5y4g5aHlobHbDo66S95yKmlXw8JFLmYOLathTQtGac4Beq/WtohE93EOCz2o2aMvWWb3JF6s4TTY2syiEa66Zhp2i8zsfRxsTrNeICHF2LdNeRJw4FgmT+4+Y0/tJFyYz34hEir3pQQZhO7DhJwYaDNaT/P0hZESzQ8sgUVfjfQsf98j4GPeWvVCe4l90LRBo1lEIhdDVwCam3PUwPsJ2LJ+IjJYfodF4nTXqZp3x2N1zXvnbb84rLAuHkuWQ2gzc1QSr34FiqFVV/oU/XxN02C5zJefqLPzxf+1xgfn+GRZ2berCeCe2u6sKIakfL8cbXX686haN2wWq00yKfWw1mX4ifNliIFzgl7LzQaEbQaIzBLaI1ALCjOdYXED4lW2wlfRwbhRMsueHQ7u9kZixIaWioRJ1iuTb3HLDmf55KHazJjlSCOO821DFoBZqAeZJV2ZYv",
+  "manifest_signature": "RuU5Y3vZDVnY2CBp8iwPxMooB5bH9a64avpci/cEd9euLMJKyjeej6zBzC26AMS+iEUNMEXv/h8jarjY8NlvK1v2gr0tdFHZOjj1vFC2LyNfVmul3PuYkDmQ3YcsMkKiG8S4dyrSBJdZZj8M6kvCmYXODonucr41ECwyMFkNuP3aVrcxfGHknqQ+QQ4Ufx2OcqpAWKIBRrICdTk5AZnYwP4aOr5gVqpokf0GTUjVzAmRD+xu2sgvkDiGL3bWl18YwWnjy5rD98nz2mpKbTTkoI1CSi0PvOkvbmtq811j18QkRKdvS4Xam9L+Nqpd1XylrFz5E6bT2jRfafynvwiEl113AK0SPg+GqoJzTWtPS+qUQvzTde7/Cyj1n7Nm/aaewt6bqnt5yG1BnCEbecmbuihGysdwL7cfJO+pChfXUGUM8p+15Gx/X4xboSwp/Tb2tNLEhFO1QiQDfWCvfyvVWP/VuP1yXAJAhS45/RkMnEXnviGPy2WF/N7W9tSkxHPi",
   "files": [
     {
       "path": "LICENSE_MaruBuri.txt",
@@ -10,8 +10,13 @@
     },
     {
       "path": "manifest.json",
-      "bytes": 506783,
-      "sha256": "10cf52f43cae11ba50119cd8dc8f49afefe3bbfe5b1c5df8bdfd1bdceecec800"
+      "bytes": 507014,
+      "sha256": "fe8587d0858d63d3d416c2f132285f09b5dae5c3321617100021f7981f9f9e7d"
+    },
+    {
+      "path": "payload/Manual/Nights of Azure 2_CHT.pdf",
+      "bytes": 534883,
+      "sha256": "dc525cff25280cedd9ae6092a5f7cf1b3cde6383e647e9cb115ea80c721cbfba"
     },
     {
       "path": "payload/MASTER/CHT/Event/balloonsel/BalloonSelectData.bsb",
@@ -5961,7 +5966,7 @@
     {
       "path": "payload/MASTER/CHT/Layout/10_title_top.kscl",
       "bytes": 8956210,
-      "sha256": "234bcf6148dd529226703425e6cf7c5dc9c1bd135ab5744067116ec3279ee81c"
+      "sha256": "be9fb6742c86d6bb132be84e55a24749f54bad16604383c8300a48b16cde1df7"
     },
     {
       "path": "payload/MASTER/CHT/Layout/20_base_shortcut.kscl",
@@ -6066,7 +6071,7 @@
     {
       "path": "payload/MASTER/CHT/Layout/30_worldmap_2.kscl",
       "bytes": 3710422,
-      "sha256": "eb507b43aa4b05967dd9b8e9e042fc504fa04c90cdd09b817afb82ed5d506eed"
+      "sha256": "8a015972723f7c39bd403ecd6bf1528a7ab6900bca7821d9b53b8d9dcea80cf7"
     },
     {
       "path": "payload/MASTER/CHT/Layout/31_areamap_SG01.kscl",
@@ -6319,14 +6324,9 @@
       "sha256": "73531f2a81853f06e0c2ac40e7de3795c5375af48a1200715fa8fb5e6c240468"
     },
     {
-      "path": "payload/Manual/Nights of Azure 2_CHT.pdf",
-      "bytes": 534883,
-      "sha256": "dc525cff25280cedd9ae6092a5f7cf1b3cde6383e647e9cb115ea80c721cbfba"
-    },
-    {
       "path": "payload/Nights of Azure 2_CHT.exe",
       "bytes": 15687680,
-      "sha256": "a45c63df25a7e30478dee66687a3d9287e73ce7d41a88b097e53fa17b3b794c6"
+      "sha256": "185635cfb2615cc897861fee5501a92258cfb81ba83b9663cc2c7d3377878eb7"
     },
     {
       "path": "payload/Nights of Azure 2_Env.exe",
@@ -6345,8 +6345,8 @@
     },
     {
       "path": "사용법.txt",
-      "bytes": 2513,
-      "sha256": "93a73886f960e00c7b6dcb742441b482727e91799e852ea02417ce9aa23b039a"
+      "bytes": 1220,
+      "sha256": "e74809f4ccc3d900902462b012335e5b16c6305c488578cb552edd1df1369e5c"
     }
   ]
 }
