@@ -1,12 +1,14 @@
 # 밤이 없는 나라 2 ~신월의 신부~ 한국어 패치
 
-최신 패치 데이터는 **RC11**, 공개 런처는 **1.0.7**입니다.
+최신 패치 데이터는 **RC11**, 공개 런처는 **1.0.9**입니다.
 
-- **처음 사용 / 런처 1.0.5 이하:** [런처 1.0.7 받기](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/releases/download/launcher-v1.0.7/Nights_of_Azure_2_Korean_Launcher_1.0.7.zip) → 압축을 풀고 실행하세요.
+- **처음 사용 / 런처 1.0.5 이하:** [런처 1.0.9 받기](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/releases/download/launcher-v1.0.9/Nights_of_Azure_2_Korean_Launcher_1.0.9.zip) → 압축을 풀고 실행하세요.
 - **런처 1.0.6 이상:** 오른쪽 위 **런처 업데이트**에서 새 버전을 설치할 수 있습니다.
 - **게임 패치:** 런처에서 **한국어 패치 설치 / 한국어 패치 업데이트**를 누르면 RC11 데이터를 내려받아 검증·백업 후 설치합니다.
 
-[RC11 변경 내용](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/releases/tag/v2026.09.26-rc11) · [런처 1.0.7 변경 내용](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/releases/tag/launcher-v1.0.7) · [사용법](README_KO.txt) · [파일 해시](SHA256SUMS.txt) · [검증 요약](qa-summary.json)
+[RC11 변경 내용](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/releases/tag/v2026.09.26-rc11) · [런처 1.0.9 변경 내용](https://github.com/sirecoymarsh/nights-of-azure-2-korean-patch/releases/tag/launcher-v1.0.9) · [사용법](README_KO.txt) · [파일 해시](SHA256SUMS.txt) · [검증 요약](qa-summary.json)
+
+1.0.9 로컬 시험판을 쓰는 경우에는 같은 버전으로 표시되므로 위 공개 ZIP을 직접 받아 실행하세요.
 
 ## 두 가지 업데이트
 
@@ -17,10 +19,10 @@
 ## 이번 변경
 
 - RC11: 지도 지명 9개·숫자 아이콘 10곳의 간격 조정, 게임 창 제목과 타이틀 하단 버전 갱신.
-- 런처: 메뉴 사용 후 불필요한 전체 검사 반복 제거, 연결된 게임 경로와 백업 인식 보완, 실제 드라이브 여유 공간 확인, 이전 런처와 백업 호환성 보완, 런처 자체 업데이트 추가.
+- 런처 1.0.9: 최초 원본으로 패치 완전 제거, 변경된 파일만 백업, 긴 연결 경로·무관한 백업 오류·여유 공간 처리 개선. 런처 자체 업데이트와 메뉴 응답성 개선은 유지합니다.
 - RC10의 로고·영상 후 종료 오류 수정과 누적 번역·튜토리얼·메뉴·자막·컬렉션 수정은 유지했습니다.
 
-게임을 저장하고 정상 종료한 뒤 패치를 설치하세요. **한국어 패치 제거**는 설치 직전 백업으로 되돌립니다. 이전 패치 위에 설치했다면 이전 패치로 돌아갑니다. 세이브와 화면 설정은 패치 대상에 포함하지 않습니다.
+게임을 저장하고 정상 종료한 뒤 패치를 설치하세요. **런처 1.0.9의 한국어 패치 제거**는 최초 원본 백업을 확인해 이전 한국어 패치까지 완전히 제거합니다. 원본이 없거나 손상됐으면 파일을 바꾸기 전에 중단합니다. Steam 무결성 검사 후 다시 제거하면 패치가 추가한 파일도 정리할 수 있습니다. 세이브와 화면 설정은 패치 대상에 포함하지 않습니다.
 
 서명·파일 해시, 1,266개 파일의 설치·재설치·정확한 복구, 런처의 실패·취소 처리와 Defender 검사를 통과했습니다. 지도 화면의 최종 배치와 장시간 플레이 검수는 진행 중이므로 RC11 데이터는 시험판으로 제공합니다.
 

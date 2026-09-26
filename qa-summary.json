@@ -1,13 +1,16 @@
 {
   "data_version": "2026.09.26-rc11",
   "data_prerelease": true,
-  "launcher_version": "1.0.7",
+  "launcher_version": "1.0.9",
   "translator_model": "Codex internal",
   "payload_files": 1266,
   "changed_game_files": 3,
-  "launcher_code_change_from_local_106": "version constant and public readme only",
-  "launcher_regression_checks": 52,
+  "launcher_regression_checks": 74,
   "local_rc11_install_restore": "PASS",
-  "public_release_checks": "pending at packaging; release notes will record public verification",
-  "runtime_map_visual_verified": false
+  "public_release_checks": "Post-publication download verification is recorded in the launcher release notes",
+  "runtime_map_visual_verified": false,
+  "launcher_exact_zip_original_removal": "1266 targets, 5 patch-added files, saves and settings preserved",
+  "launcher_review_findings": "both fixed in final executable",
+  "launcher_defender": "4 targets PASS",
+  "public_launcher_update_check": "See launcher 1.0.9 release notes for public download and readiness verification"
 }
